@@ -6,11 +6,39 @@ build-backend = "setuptools.build_meta"
 name = "applied-ai-capstone-starter"
 version = "0.1.0"
 description = "Empty educational scaffold for IIT Hyderabad Applied AI capstones"
-requires-python = ">=3.10"
-dependencies = []
+requires-python = ">=3.10,<3.14"
+dependencies = [
+    "litellm>=1.50",
+    "pydantic>=2.7",
+    "pydantic-settings>=2.3",
+    "python-dotenv>=1.0",
+    "pyyaml>=6.0",
+    "qdrant-client==1.19.1",  # M3: policy index (embedded on-disk mode)
+    "fastembed==0.9.0",  # M3: local embedding model (ONNX, no API calls); M4: local reranker
+    "pypdf==5.1.0",  # M4: read the policy PDFs
+    "langgraph==1.2.12",  # M5: workflow graph, interrupt/resume
+    "langgraph-checkpoint-sqlite==3.1.1",  # M5: durable checkpoints (survive a restart)
+    "mcp==1.30.0",  # M6: EHR/scheduling mocks exposed as an MCP server
+    "langfuse==4.17.0",  # M7: tracing (metadata-only spans; local JSONL copy for tests)
+    "fastapi==0.143.0",  # M8: the HTTP API (uvicorn and httpx come with mcp)
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.6",
+]
 
 [tool.setuptools.packages.find]
 where = ["src"]
 
 # Add and pin the dependencies you actually use as milestones progress.
 # Evaluation/scripts remain repository-level tooling, outside this package.
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100

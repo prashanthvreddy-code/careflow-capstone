@@ -1,0 +1,5 @@
+plan_code,plan_name,annual_deductible_usd,coinsurance_rate,out_of_pocket_max_usd,specialist_copay_usd,telehealth_copay_usd
+MERIDIAN-GOLD,Meridian Gold,500,0.2,25000,25,10
+MERIDIAN-SILVER,Meridian Silver,1500,0.3,15000,45,18
+MERIDIAN-BRONZE,Meridian Bronze,3000,0.4,8000,45,18
+CIVIC-BASE,Civic Base,2000,0.35,10000,45,18

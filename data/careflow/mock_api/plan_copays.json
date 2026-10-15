@@ -1,0 +1,82 @@
+[
+  {
+    "plan_code": "MERIDIAN-GOLD",
+    "service_category": "consultation",
+    "copay_usd": 25
+  },
+  {
+    "plan_code": "MERIDIAN-GOLD",
+    "service_category": "telehealth",
+    "copay_usd": 10
+  },
+  {
+    "plan_code": "MERIDIAN-GOLD",
+    "service_category": "imaging",
+    "copay_usd": 60
+  },
+  {
+    "plan_code": "MERIDIAN-GOLD",
+    "service_category": "lab",
+    "copay_usd": 15
+  },
+  {
+    "plan_code": "MERIDIAN-SILVER",
+    "service_category": "consultation",
+    "copay_usd": 45
+  },
+  {
+    "plan_code": "MERIDIAN-SILVER",
+    "service_category": "telehealth",
+    "copay_usd": 18
+  },
+  {
+    "plan_code": "MERIDIAN-SILVER",
+    "service_category": "imaging",
+    "copay_usd": 110
+  },
+  {
+    "plan_code": "MERIDIAN-SILVER",
+    "service_category": "lab",
+    "copay_usd": 25
+  },
+  {
+    "plan_code": "MERIDIAN-BRONZE",
+    "service_category": "consultation",
+    "copay_usd": 45
+  },
+  {
+    "plan_code": "MERIDIAN-BRONZE",
+    "service_category": "telehealth",
+    "copay_usd": 18
+  },
+  {
+    "plan_code": "MERIDIAN-BRONZE",
+    "service_category": "imaging",
+    "copay_usd": 160
+  },
+  {
+    "plan_code": "MERIDIAN-BRONZE",
+    "service_category": "lab",
+    "copay_usd": 35
+  },
+  {
+    "plan_code": "CIVIC-BASE",
+    "service_category": "consultation",
+    "copay_usd": 45
+  },
+  {
+    "plan_code": "CIVIC-BASE",
+    "service_category": "telehealth",
+    "copay_usd": 18
+  },
+  {
+    "plan_code": "CIVIC-BASE",
+    "service_category": "imaging",
+    "copay_usd": 130
+  },
+  {
+    "plan_code": "CIVIC-BASE",
+    "service_category": "lab",
+    "copay_usd": 30
+  }
+]

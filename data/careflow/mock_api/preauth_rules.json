@@ -1,0 +1,674 @@
+[
+  {
+    "procedure_code": "CARD-CONS",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "CARD-CONS",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "CARD-CONS",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "CARD-CONS",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "CARD-ECHO",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "CARD-ECHO",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 3
+  },
+  {
+    "procedure_code": "CARD-ECHO",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 5
+  },
+  {
+    "procedure_code": "CARD-ECHO",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 5
+  },
+  {
+    "procedure_code": "CARD-CATH",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 2
+  },
+  {
+    "procedure_code": "CARD-CATH",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 3
+  },
+  {
+    "procedure_code": "CARD-CATH",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 5
+  },
+  {
+    "procedure_code": "CARD-CATH",
+    "plan_code": "CIVIC-BASE",
+    "covered": false,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ORTH-CONS",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ORTH-CONS",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ORTH-CONS",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ORTH-CONS",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ORTH-MRI",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ORTH-MRI",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 3
+  },
+  {
+    "procedure_code": "ORTH-MRI",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 5
+  },
+  {
+    "procedure_code": "ORTH-MRI",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 5
+  },
+  {
+    "procedure_code": "ORTH-ARTH",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 2
+  },
+  {
+    "procedure_code": "ORTH-ARTH",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 3
+  },
+  {
+    "procedure_code": "ORTH-ARTH",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 5
+  },
+  {
+    "procedure_code": "ORTH-ARTH",
+    "plan_code": "CIVIC-BASE",
+    "covered": false,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "DERM-CONS",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "DERM-CONS",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "DERM-CONS",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "DERM-CONS",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "DERM-BIOP",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "DERM-BIOP",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "DERM-BIOP",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "DERM-BIOP",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "DERM-EXCI",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 2
+  },
+  {
+    "procedure_code": "DERM-EXCI",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 3
+  },
+  {
+    "procedure_code": "DERM-EXCI",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 5
+  },
+  {
+    "procedure_code": "DERM-EXCI",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 7
+  },
+  {
+    "procedure_code": "ENDO-CONS",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ENDO-CONS",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ENDO-CONS",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ENDO-CONS",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ENDO-PANL",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ENDO-PANL",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ENDO-PANL",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ENDO-PANL",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ENDO-FNAB",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 2
+  },
+  {
+    "procedure_code": "ENDO-FNAB",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 3
+  },
+  {
+    "procedure_code": "ENDO-FNAB",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 5
+  },
+  {
+    "procedure_code": "ENDO-FNAB",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 7
+  },
+  {
+    "procedure_code": "GAST-CONS",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "GAST-CONS",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "GAST-CONS",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "GAST-CONS",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "GAST-USND",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "GAST-USND",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 3
+  },
+  {
+    "procedure_code": "GAST-USND",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 5
+  },
+  {
+    "procedure_code": "GAST-USND",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 5
+  },
+  {
+    "procedure_code": "GAST-COLO",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 2
+  },
+  {
+    "procedure_code": "GAST-COLO",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 3
+  },
+  {
+    "procedure_code": "GAST-COLO",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 5
+  },
+  {
+    "procedure_code": "GAST-COLO",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 7
+  },
+  {
+    "procedure_code": "PULM-CONS",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "PULM-CONS",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "PULM-CONS",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "PULM-CONS",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "PULM-PFT",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "PULM-PFT",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "PULM-PFT",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "PULM-PFT",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "PULM-BRON",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 2
+  },
+  {
+    "procedure_code": "PULM-BRON",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 3
+  },
+  {
+    "procedure_code": "PULM-BRON",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 5
+  },
+  {
+    "procedure_code": "PULM-BRON",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 7
+  },
+  {
+    "procedure_code": "NEUR-CONS",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "NEUR-CONS",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "NEUR-CONS",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "NEUR-CONS",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "NEUR-MRI",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "NEUR-MRI",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 3
+  },
+  {
+    "procedure_code": "NEUR-MRI",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 5
+  },
+  {
+    "procedure_code": "NEUR-MRI",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 5
+  },
+  {
+    "procedure_code": "NEUR-NCS",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 2
+  },
+  {
+    "procedure_code": "NEUR-NCS",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 3
+  },
+  {
+    "procedure_code": "NEUR-NCS",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 5
+  },
+  {
+    "procedure_code": "NEUR-NCS",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 7
+  },
+  {
+    "procedure_code": "ENT-CONS",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ENT-CONS",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ENT-CONS",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ENT-CONS",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ENT-AUDI",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ENT-AUDI",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ENT-AUDI",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ENT-AUDI",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": false,
+    "approval_window_business_days": null
+  },
+  {
+    "procedure_code": "ENT-SEPT",
+    "plan_code": "MERIDIAN-GOLD",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 2
+  },
+  {
+    "procedure_code": "ENT-SEPT",
+    "plan_code": "MERIDIAN-SILVER",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 3
+  },
+  {
+    "procedure_code": "ENT-SEPT",
+    "plan_code": "MERIDIAN-BRONZE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 5
+  },
+  {
+    "procedure_code": "ENT-SEPT",
+    "plan_code": "CIVIC-BASE",
+    "covered": true,
+    "preauth_required": true,
+    "approval_window_business_days": 7
+  }
+]

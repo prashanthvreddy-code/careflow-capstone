@@ -1,0 +1,15 @@
+site_id,site_name,city,opens_at,closes_at,telehealth_enabled
+MHP-SITE-01,Meridian North Judithbury Clinic,North Judithbury,09:00,18:00,True
+MHP-SITE-02,Meridian East Jill Clinic,East Jill,09:00,17:00,False
+MHP-SITE-03,Meridian New Roberttown Clinic,New Roberttown,08:00,20:00,False
+MHP-SITE-04,Meridian East Jessetown Clinic,East Jessetown,08:00,17:00,False
+MHP-SITE-05,Meridian Lake Debra Clinic,Lake Debra,08:00,18:00,False
+MHP-SITE-06,Meridian Robinsonshire Clinic,Robinsonshire,09:00,17:00,True
+MHP-SITE-07,Meridian Lisatown Clinic,Lisatown,07:30,20:00,True
+MHP-SITE-08,Meridian Lake Roberto Clinic,Lake Roberto,07:30,18:00,True
+MHP-SITE-09,Meridian Ericmouth Clinic,Ericmouth,08:00,20:00,False
+MHP-SITE-10,Meridian North Noahstad Clinic,North Noahstad,07:30,17:00,True
+MHP-SITE-11,Meridian Cassandraton Clinic,Cassandraton,08:00,17:00,False
+MHP-SITE-12,Meridian Herrerafurt Clinic,Herrerafurt,09:00,18:00,False
+MHP-SITE-13,Meridian New Kellystad Clinic,New Kellystad,08:00,18:00,True
+MHP-SITE-14,Meridian Lake Chad Clinic,Lake Chad,08:00,18:00,True

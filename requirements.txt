@@ -1,0 +1,20 @@
+# CareFlow: pinned versions the project was tested with (Python 3.12).
+# Install: python -m venv .venv && .venv/bin/pip install -r requirements.txt && .venv/bin/pip install -e .
+litellm==1.104.0
+pydantic==2.13.5
+pydantic-settings==2.15.0
+python-dotenv==1.2.4
+pyyaml==6.0.3
+qdrant-client==1.19.1
+fastembed==0.9.0
+pypdf==5.1.0
+langgraph==1.2.12
+langgraph-checkpoint-sqlite==3.1.1
+mcp==1.30.0
+langfuse==4.17.0
+fastapi==0.143.0
+uvicorn==0.54.0
+httpx==0.28.1
+# tests and lint
+pytest==9.1.1
+ruff==0.16.10

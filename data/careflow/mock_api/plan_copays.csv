@@ -1,0 +1,17 @@
+plan_code,service_category,copay_usd
+MERIDIAN-GOLD,consultation,25
+MERIDIAN-GOLD,telehealth,10
+MERIDIAN-GOLD,imaging,60
+MERIDIAN-GOLD,lab,15
+MERIDIAN-SILVER,consultation,45
+MERIDIAN-SILVER,telehealth,18
+MERIDIAN-SILVER,imaging,110
+MERIDIAN-SILVER,lab,25
+MERIDIAN-BRONZE,consultation,45
+MERIDIAN-BRONZE,telehealth,18
+MERIDIAN-BRONZE,imaging,160
+MERIDIAN-BRONZE,lab,35
+CIVIC-BASE,consultation,45
+CIVIC-BASE,telehealth,18
+CIVIC-BASE,imaging,130
+CIVIC-BASE,lab,30

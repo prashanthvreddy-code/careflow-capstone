@@ -1,0 +1,25 @@
+procedure_code,procedure_name,specialty,category,list_price_usd,duration_minutes,cost_share_basis
+CARD-CONS,Cardiology Consultation,Cardiology,consultation,220,30,copay
+CARD-ECHO,Echocardiogram,Cardiology,imaging,950,45,copay
+CARD-CATH,Cardiac Catheterisation,Cardiology,procedure,7800,90,deductible_then_coinsurance
+ORTH-CONS,Orthopaedics Consultation,Orthopaedics,consultation,200,30,copay
+ORTH-MRI,MRI Knee,Orthopaedics,imaging,1400,45,copay
+ORTH-ARTH,Knee Arthroscopy,Orthopaedics,procedure,6200,75,deductible_then_coinsurance
+DERM-CONS,Dermatology Consultation,Dermatology,consultation,160,20,copay
+DERM-BIOP,Skin Biopsy Pathology,Dermatology,lab,380,20,copay
+DERM-EXCI,Lesion Excision,Dermatology,procedure,1150,45,deductible_then_coinsurance
+ENDO-CONS,Endocrinology Consultation,Endocrinology,consultation,190,30,copay
+ENDO-PANL,Thyroid Function Panel,Endocrinology,lab,140,15,copay
+ENDO-FNAB,Thyroid Fine-Needle Aspiration,Endocrinology,procedure,900,30,deductible_then_coinsurance
+GAST-CONS,Gastroenterology Consultation,Gastroenterology,consultation,210,30,copay
+GAST-USND,Abdominal Ultrasound,Gastroenterology,imaging,520,30,copay
+GAST-COLO,Colonoscopy,Gastroenterology,procedure,2600,60,deductible_then_coinsurance
+PULM-CONS,Pulmonology Consultation,Pulmonology,consultation,200,30,copay
+PULM-PFT,Pulmonary Function Test,Pulmonology,lab,310,45,copay
+PULM-BRON,Bronchoscopy,Pulmonology,procedure,3400,60,deductible_then_coinsurance
+NEUR-CONS,Neurology Consultation,Neurology,consultation,230,45,copay
+NEUR-MRI,MRI Brain,Neurology,imaging,1650,45,copay
+NEUR-NCS,Nerve Conduction Study,Neurology,procedure,780,60,deductible_then_coinsurance
+ENT-CONS,ENT Consultation,ENT,consultation,170,20,copay
+ENT-AUDI,Audiometry,ENT,lab,150,30,copay
+ENT-SEPT,Septoplasty,ENT,procedure,5400,90,deductible_then_coinsurance

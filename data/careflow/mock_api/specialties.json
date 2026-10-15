@@ -1,0 +1,50 @@
+[
+  {
+    "specialty": "Cardiology",
+    "procedure_prefix": "CARD",
+    "consult_duration_minutes": 30,
+    "first_appointment_target_days": 7
+  },
+  {
+    "specialty": "Orthopaedics",
+    "procedure_prefix": "ORTH",
+    "consult_duration_minutes": 30,
+    "first_appointment_target_days": 10
+  },
+  {
+    "specialty": "Dermatology",
+    "procedure_prefix": "DERM",
+    "consult_duration_minutes": 20,
+    "first_appointment_target_days": 14
+  },
+  {
+    "specialty": "Endocrinology",
+    "procedure_prefix": "ENDO",
+    "consult_duration_minutes": 30,
+    "first_appointment_target_days": 12
+  },
+  {
+    "specialty": "Gastroenterology",
+    "procedure_prefix": "GAST",
+    "consult_duration_minutes": 30,
+    "first_appointment_target_days": 9
+  },
+  {
+    "specialty": "Pulmonology",
+    "procedure_prefix": "PULM",
+    "consult_duration_minutes": 30,
+    "first_appointment_target_days": 8
+  },
+  {
+    "specialty": "Neurology",
+    "procedure_prefix": "NEUR",
+    "consult_duration_minutes": 45,
+    "first_appointment_target_days": 11
+  },
+  {
+    "specialty": "ENT",
+    "procedure_prefix": "ENT",
+    "consult_duration_minutes": 20,
+    "first_appointment_target_days": 6
+  }
+]

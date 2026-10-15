@@ -1,0 +1,9 @@
+specialty,procedure_prefix,consult_duration_minutes,first_appointment_target_days
+Cardiology,CARD,30,7
+Orthopaedics,ORTH,30,10
+Dermatology,DERM,20,14
+Endocrinology,ENDO,30,12
+Gastroenterology,GAST,30,9
+Pulmonology,PULM,30,8
+Neurology,NEUR,45,11
+ENT,ENT,20,6

@@ -1,0 +1,6002 @@
+[
+  {
+    "interaction_id": "MHP-I-00000",
+    "patient_ref": "MHP-P-00338",
+    "occurred_at": "2026-05-23T11:48",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00089"
+  },
+  {
+    "interaction_id": "MHP-I-00001",
+    "patient_ref": "MHP-P-00221",
+    "occurred_at": "2026-02-21T16:35",
+    "channel": "phone",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00002",
+    "patient_ref": "MHP-P-00260",
+    "occurred_at": "2025-08-07T18:46",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00003",
+    "patient_ref": "MHP-P-00371",
+    "occurred_at": "2026-04-14T15:01",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00004",
+    "patient_ref": "MHP-P-00174",
+    "occurred_at": "2025-09-01T17:36",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00005",
+    "patient_ref": "MHP-P-00320",
+    "occurred_at": "2026-01-01T11:48",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00006",
+    "patient_ref": "MHP-P-00158",
+    "occurred_at": "2026-03-24T18:51",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00007"
+  },
+  {
+    "interaction_id": "MHP-I-00007",
+    "patient_ref": "MHP-P-00345",
+    "occurred_at": "2026-03-28T09:07",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00206"
+  },
+  {
+    "interaction_id": "MHP-I-00008",
+    "patient_ref": "MHP-P-00149",
+    "occurred_at": "2026-03-09T15:34",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00009",
+    "patient_ref": "MHP-P-00093",
+    "occurred_at": "2025-12-25T12:08",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00010",
+    "patient_ref": "MHP-P-00064",
+    "occurred_at": "2026-05-11T13:51",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00011",
+    "patient_ref": "MHP-P-00398",
+    "occurred_at": "2025-12-14T13:44",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00012",
+    "patient_ref": "MHP-P-00049",
+    "occurred_at": "2026-03-25T10:21",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00013",
+    "patient_ref": "MHP-P-00133",
+    "occurred_at": "2026-07-06T13:20",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00014",
+    "patient_ref": "MHP-P-00370",
+    "occurred_at": "2026-04-29T15:19",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00049"
+  },
+  {
+    "interaction_id": "MHP-I-00015",
+    "patient_ref": "MHP-P-00040",
+    "occurred_at": "2026-07-17T15:46",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00209"
+  },
+  {
+    "interaction_id": "MHP-I-00016",
+    "patient_ref": "MHP-P-00371",
+    "occurred_at": "2025-11-30T12:36",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00017",
+    "patient_ref": "MHP-P-00268",
+    "occurred_at": "2026-04-28T10:17",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00145"
+  },
+  {
+    "interaction_id": "MHP-I-00018",
+    "patient_ref": "MHP-P-00233",
+    "occurred_at": "2025-12-12T11:24",
+    "channel": "phone",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00019",
+    "patient_ref": "MHP-P-00196",
+    "occurred_at": "2025-08-15T09:20",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00020",
+    "patient_ref": "MHP-P-00041",
+    "occurred_at": "2025-08-20T11:13",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00021",
+    "patient_ref": "MHP-P-00006",
+    "occurred_at": "2025-11-01T14:58",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00022",
+    "patient_ref": "MHP-P-00336",
+    "occurred_at": "2026-04-15T09:48",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00023",
+    "patient_ref": "MHP-P-00244",
+    "occurred_at": "2025-12-01T14:02",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00024",
+    "patient_ref": "MHP-P-00279",
+    "occurred_at": "2026-06-05T08:35",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00025",
+    "patient_ref": "MHP-P-00251",
+    "occurred_at": "2026-07-10T18:03",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00098"
+  },
+  {
+    "interaction_id": "MHP-I-00026",
+    "patient_ref": "MHP-P-00178",
+    "occurred_at": "2026-05-20T18:02",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00027",
+    "patient_ref": "MHP-P-00081",
+    "occurred_at": "2026-04-14T16:20",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00028",
+    "patient_ref": "MHP-P-00322",
+    "occurred_at": "2026-01-09T12:38",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00029",
+    "patient_ref": "MHP-P-00344",
+    "occurred_at": "2026-04-29T14:46",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00122"
+  },
+  {
+    "interaction_id": "MHP-I-00030",
+    "patient_ref": "MHP-P-00338",
+    "occurred_at": "2026-08-01T08:27",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00113"
+  },
+  {
+    "interaction_id": "MHP-I-00031",
+    "patient_ref": "MHP-P-00109",
+    "occurred_at": "2026-01-03T18:20",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00032",
+    "patient_ref": "MHP-P-00254",
+    "occurred_at": "2025-12-24T16:17",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00033",
+    "patient_ref": "MHP-P-00236",
+    "occurred_at": "2026-02-26T13:24",
+    "channel": "phone",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00034",
+    "patient_ref": "MHP-P-00056",
+    "occurred_at": "2026-05-22T12:24",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00035",
+    "patient_ref": "MHP-P-00358",
+    "occurred_at": "2026-04-15T16:37",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00205"
+  },
+  {
+    "interaction_id": "MHP-I-00036",
+    "patient_ref": "MHP-P-00236",
+    "occurred_at": "2026-05-22T17:21",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00037",
+    "patient_ref": "MHP-P-00136",
+    "occurred_at": "2026-03-18T18:21",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00038",
+    "patient_ref": "MHP-P-00378",
+    "occurred_at": "2026-05-04T17:50",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00039",
+    "patient_ref": "MHP-P-00074",
+    "occurred_at": "2026-03-18T14:28",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00040",
+    "patient_ref": "MHP-P-00339",
+    "occurred_at": "2025-12-07T17:28",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00041",
+    "patient_ref": "MHP-P-00381",
+    "occurred_at": "2026-05-31T08:36",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00042",
+    "patient_ref": "MHP-P-00105",
+    "occurred_at": "2026-06-07T10:06",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00043",
+    "patient_ref": "MHP-P-00229",
+    "occurred_at": "2026-05-21T13:29",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00240"
+  },
+  {
+    "interaction_id": "MHP-I-00044",
+    "patient_ref": "MHP-P-00098",
+    "occurred_at": "2026-04-12T16:36",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00158"
+  },
+  {
+    "interaction_id": "MHP-I-00045",
+    "patient_ref": "MHP-P-00082",
+    "occurred_at": "2026-01-17T08:45",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00046",
+    "patient_ref": "MHP-P-00387",
+    "occurred_at": "2025-10-08T14:23",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00047",
+    "patient_ref": "MHP-P-00057",
+    "occurred_at": "2026-06-13T08:52",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00048",
+    "patient_ref": "MHP-P-00083",
+    "occurred_at": "2026-03-14T08:09",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00049",
+    "patient_ref": "MHP-P-00312",
+    "occurred_at": "2026-04-14T12:06",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00050",
+    "patient_ref": "MHP-P-00392",
+    "occurred_at": "2025-11-14T15:27",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00051",
+    "patient_ref": "MHP-P-00337",
+    "occurred_at": "2025-10-16T17:50",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00052",
+    "patient_ref": "MHP-P-00142",
+    "occurred_at": "2025-12-08T14:13",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00053",
+    "patient_ref": "MHP-P-00175",
+    "occurred_at": "2026-07-27T09:02",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00054",
+    "patient_ref": "MHP-P-00162",
+    "occurred_at": "2026-08-01T08:48",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00024"
+  },
+  {
+    "interaction_id": "MHP-I-00055",
+    "patient_ref": "MHP-P-00009",
+    "occurred_at": "2026-06-17T15:29",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00056",
+    "patient_ref": "MHP-P-00214",
+    "occurred_at": "2025-12-16T08:54",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00057",
+    "patient_ref": "MHP-P-00217",
+    "occurred_at": "2025-11-23T15:55",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00058",
+    "patient_ref": "MHP-P-00234",
+    "occurred_at": "2026-04-06T18:57",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00059",
+    "patient_ref": "MHP-P-00346",
+    "occurred_at": "2026-02-15T15:48",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00060",
+    "patient_ref": "MHP-P-00305",
+    "occurred_at": "2026-02-26T18:21",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00061",
+    "patient_ref": "MHP-P-00256",
+    "occurred_at": "2025-08-02T08:54",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00062",
+    "patient_ref": "MHP-P-00162",
+    "occurred_at": "2026-04-19T12:30",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00063",
+    "patient_ref": "MHP-P-00070",
+    "occurred_at": "2025-09-30T12:47",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00064",
+    "patient_ref": "MHP-P-00140",
+    "occurred_at": "2025-10-24T11:01",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00065",
+    "patient_ref": "MHP-P-00016",
+    "occurred_at": "2026-02-28T17:03",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00066",
+    "patient_ref": "MHP-P-00239",
+    "occurred_at": "2026-05-01T09:47",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00067",
+    "patient_ref": "MHP-P-00278",
+    "occurred_at": "2026-05-15T13:36",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00068",
+    "patient_ref": "MHP-P-00244",
+    "occurred_at": "2026-05-30T08:55",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00150"
+  },
+  {
+    "interaction_id": "MHP-I-00069",
+    "patient_ref": "MHP-P-00150",
+    "occurred_at": "2026-04-20T18:26",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00070",
+    "patient_ref": "MHP-P-00217",
+    "occurred_at": "2026-05-15T16:29",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00071",
+    "patient_ref": "MHP-P-00003",
+    "occurred_at": "2026-08-01T08:00",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00279"
+  },
+  {
+    "interaction_id": "MHP-I-00072",
+    "patient_ref": "MHP-P-00371",
+    "occurred_at": "2026-04-26T16:22",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00202"
+  },
+  {
+    "interaction_id": "MHP-I-00073",
+    "patient_ref": "MHP-P-00296",
+    "occurred_at": "2026-05-10T11:47",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00074",
+    "patient_ref": "MHP-P-00117",
+    "occurred_at": "2025-10-07T11:45",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00075",
+    "patient_ref": "MHP-P-00104",
+    "occurred_at": "2025-11-10T14:56",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00076",
+    "patient_ref": "MHP-P-00132",
+    "occurred_at": "2025-12-14T15:46",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00077",
+    "patient_ref": "MHP-P-00212",
+    "occurred_at": "2025-12-18T12:44",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00078",
+    "patient_ref": "MHP-P-00385",
+    "occurred_at": "2026-05-16T13:54",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00079",
+    "patient_ref": "MHP-P-00388",
+    "occurred_at": "2025-08-31T09:08",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00080",
+    "patient_ref": "MHP-P-00178",
+    "occurred_at": "2026-07-31T15:20",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00081",
+    "patient_ref": "MHP-P-00322",
+    "occurred_at": "2026-02-13T09:53",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00082",
+    "patient_ref": "MHP-P-00132",
+    "occurred_at": "2026-04-01T17:22",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00026"
+  },
+  {
+    "interaction_id": "MHP-I-00083",
+    "patient_ref": "MHP-P-00023",
+    "occurred_at": "2026-02-28T09:46",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00084",
+    "patient_ref": "MHP-P-00368",
+    "occurred_at": "2026-07-04T18:34",
+    "channel": "phone",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00085",
+    "patient_ref": "MHP-P-00274",
+    "occurred_at": "2026-07-09T18:09",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00086",
+    "patient_ref": "MHP-P-00370",
+    "occurred_at": "2026-04-06T18:21",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00181"
+  },
+  {
+    "interaction_id": "MHP-I-00087",
+    "patient_ref": "MHP-P-00260",
+    "occurred_at": "2026-04-05T13:24",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00088",
+    "patient_ref": "MHP-P-00245",
+    "occurred_at": "2026-05-23T17:50",
+    "channel": "phone",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00089",
+    "patient_ref": "MHP-P-00109",
+    "occurred_at": "2026-07-17T13:04",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00090",
+    "patient_ref": "MHP-P-00027",
+    "occurred_at": "2026-06-18T13:15",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00216"
+  },
+  {
+    "interaction_id": "MHP-I-00091",
+    "patient_ref": "MHP-P-00242",
+    "occurred_at": "2026-02-22T14:15",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00092",
+    "patient_ref": "MHP-P-00368",
+    "occurred_at": "2026-05-29T18:37",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00242"
+  },
+  {
+    "interaction_id": "MHP-I-00093",
+    "patient_ref": "MHP-P-00073",
+    "occurred_at": "2025-09-06T11:18",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00094",
+    "patient_ref": "MHP-P-00227",
+    "occurred_at": "2025-10-11T15:00",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00095",
+    "patient_ref": "MHP-P-00160",
+    "occurred_at": "2025-10-07T13:33",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00096",
+    "patient_ref": "MHP-P-00010",
+    "occurred_at": "2026-04-20T11:13",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00097",
+    "patient_ref": "MHP-P-00013",
+    "occurred_at": "2026-07-15T13:13",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00028"
+  },
+  {
+    "interaction_id": "MHP-I-00098",
+    "patient_ref": "MHP-P-00066",
+    "occurred_at": "2025-08-12T12:28",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00099",
+    "patient_ref": "MHP-P-00340",
+    "occurred_at": "2026-05-03T09:52",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00020"
+  },
+  {
+    "interaction_id": "MHP-I-00100",
+    "patient_ref": "MHP-P-00378",
+    "occurred_at": "2026-02-10T10:00",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00101",
+    "patient_ref": "MHP-P-00398",
+    "occurred_at": "2025-10-05T10:39",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00102",
+    "patient_ref": "MHP-P-00262",
+    "occurred_at": "2025-09-16T09:04",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00103",
+    "patient_ref": "MHP-P-00370",
+    "occurred_at": "2026-03-31T09:52",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00104",
+    "patient_ref": "MHP-P-00358",
+    "occurred_at": "2026-05-09T09:25",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00093"
+  },
+  {
+    "interaction_id": "MHP-I-00105",
+    "patient_ref": "MHP-P-00280",
+    "occurred_at": "2025-10-09T08:13",
+    "channel": "phone",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00106",
+    "patient_ref": "MHP-P-00276",
+    "occurred_at": "2025-08-09T10:26",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00107",
+    "patient_ref": "MHP-P-00169",
+    "occurred_at": "2026-04-13T14:40",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00108",
+    "patient_ref": "MHP-P-00297",
+    "occurred_at": "2025-10-15T08:53",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00109",
+    "patient_ref": "MHP-P-00331",
+    "occurred_at": "2025-12-29T08:50",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00110",
+    "patient_ref": "MHP-P-00211",
+    "occurred_at": "2026-03-01T15:26",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00111",
+    "patient_ref": "MHP-P-00254",
+    "occurred_at": "2026-07-29T15:35",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00146"
+  },
+  {
+    "interaction_id": "MHP-I-00112",
+    "patient_ref": "MHP-P-00046",
+    "occurred_at": "2026-06-24T15:09",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00113",
+    "patient_ref": "MHP-P-00143",
+    "occurred_at": "2025-08-15T10:02",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00114",
+    "patient_ref": "MHP-P-00084",
+    "occurred_at": "2025-08-25T14:00",
+    "channel": "phone",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00115",
+    "patient_ref": "MHP-P-00174",
+    "occurred_at": "2025-09-09T10:47",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00116",
+    "patient_ref": "MHP-P-00235",
+    "occurred_at": "2026-07-23T17:53",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00117",
+    "patient_ref": "MHP-P-00043",
+    "occurred_at": "2025-10-15T17:45",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00118",
+    "patient_ref": "MHP-P-00204",
+    "occurred_at": "2026-04-05T09:10",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00119",
+    "patient_ref": "MHP-P-00059",
+    "occurred_at": "2026-02-19T10:08",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00281"
+  },
+  {
+    "interaction_id": "MHP-I-00120",
+    "patient_ref": "MHP-P-00155",
+    "occurred_at": "2026-05-29T12:07",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00121",
+    "patient_ref": "MHP-P-00275",
+    "occurred_at": "2026-02-23T14:01",
+    "channel": "phone",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00122",
+    "patient_ref": "MHP-P-00311",
+    "occurred_at": "2025-08-12T13:13",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00123",
+    "patient_ref": "MHP-P-00392",
+    "occurred_at": "2026-04-01T13:52",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00124",
+    "patient_ref": "MHP-P-00250",
+    "occurred_at": "2026-07-20T17:07",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00125",
+    "patient_ref": "MHP-P-00112",
+    "occurred_at": "2026-07-26T16:27",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00200"
+  },
+  {
+    "interaction_id": "MHP-I-00126",
+    "patient_ref": "MHP-P-00278",
+    "occurred_at": "2026-03-18T17:51",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00225"
+  },
+  {
+    "interaction_id": "MHP-I-00127",
+    "patient_ref": "MHP-P-00175",
+    "occurred_at": "2026-03-10T10:08",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00128",
+    "patient_ref": "MHP-P-00384",
+    "occurred_at": "2026-03-25T14:11",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00190"
+  },
+  {
+    "interaction_id": "MHP-I-00129",
+    "patient_ref": "MHP-P-00132",
+    "occurred_at": "2026-03-19T13:51",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00130",
+    "patient_ref": "MHP-P-00175",
+    "occurred_at": "2026-04-23T15:13",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00131",
+    "patient_ref": "MHP-P-00327",
+    "occurred_at": "2025-10-09T18:35",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00132",
+    "patient_ref": "MHP-P-00273",
+    "occurred_at": "2026-03-15T14:00",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00133",
+    "patient_ref": "MHP-P-00066",
+    "occurred_at": "2026-04-07T12:28",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00244"
+  },
+  {
+    "interaction_id": "MHP-I-00134",
+    "patient_ref": "MHP-P-00107",
+    "occurred_at": "2025-09-24T13:22",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00135",
+    "patient_ref": "MHP-P-00085",
+    "occurred_at": "2026-02-16T13:00",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00136",
+    "patient_ref": "MHP-P-00314",
+    "occurred_at": "2025-08-10T14:03",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00137",
+    "patient_ref": "MHP-P-00065",
+    "occurred_at": "2026-04-02T14:29",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00138",
+    "patient_ref": "MHP-P-00391",
+    "occurred_at": "2026-02-11T17:45",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00139",
+    "patient_ref": "MHP-P-00323",
+    "occurred_at": "2026-05-02T08:47",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00276"
+  },
+  {
+    "interaction_id": "MHP-I-00140",
+    "patient_ref": "MHP-P-00023",
+    "occurred_at": "2025-12-09T17:23",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00141",
+    "patient_ref": "MHP-P-00180",
+    "occurred_at": "2026-06-12T09:21",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00142",
+    "patient_ref": "MHP-P-00336",
+    "occurred_at": "2025-08-05T16:48",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00143",
+    "patient_ref": "MHP-P-00092",
+    "occurred_at": "2026-03-06T09:43",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00144",
+    "patient_ref": "MHP-P-00267",
+    "occurred_at": "2026-01-09T13:10",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00145",
+    "patient_ref": "MHP-P-00213",
+    "occurred_at": "2025-08-10T17:53",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00146",
+    "patient_ref": "MHP-P-00043",
+    "occurred_at": "2026-03-12T17:02",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00147",
+    "patient_ref": "MHP-P-00381",
+    "occurred_at": "2026-01-31T09:55",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00148",
+    "patient_ref": "MHP-P-00225",
+    "occurred_at": "2026-01-31T16:36",
+    "channel": "phone",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00149",
+    "patient_ref": "MHP-P-00195",
+    "occurred_at": "2025-10-25T08:40",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00150",
+    "patient_ref": "MHP-P-00337",
+    "occurred_at": "2026-01-05T13:26",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00151",
+    "patient_ref": "MHP-P-00047",
+    "occurred_at": "2026-05-28T18:56",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00152",
+    "patient_ref": "MHP-P-00111",
+    "occurred_at": "2025-12-07T14:08",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00153",
+    "patient_ref": "MHP-P-00381",
+    "occurred_at": "2026-05-31T17:38",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00154",
+    "patient_ref": "MHP-P-00154",
+    "occurred_at": "2025-12-31T15:35",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00155",
+    "patient_ref": "MHP-P-00053",
+    "occurred_at": "2026-04-02T10:52",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00125"
+  },
+  {
+    "interaction_id": "MHP-I-00156",
+    "patient_ref": "MHP-P-00022",
+    "occurred_at": "2025-11-16T16:51",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00157",
+    "patient_ref": "MHP-P-00342",
+    "occurred_at": "2025-11-29T15:29",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00158",
+    "patient_ref": "MHP-P-00067",
+    "occurred_at": "2026-05-15T10:56",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00159",
+    "patient_ref": "MHP-P-00179",
+    "occurred_at": "2025-12-21T16:49",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00160",
+    "patient_ref": "MHP-P-00135",
+    "occurred_at": "2026-03-20T14:37",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00161",
+    "patient_ref": "MHP-P-00130",
+    "occurred_at": "2026-06-28T10:40",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00170"
+  },
+  {
+    "interaction_id": "MHP-I-00162",
+    "patient_ref": "MHP-P-00186",
+    "occurred_at": "2026-02-17T15:46",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00163",
+    "patient_ref": "MHP-P-00389",
+    "occurred_at": "2025-08-21T12:34",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00164",
+    "patient_ref": "MHP-P-00023",
+    "occurred_at": "2025-10-02T15:42",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00165",
+    "patient_ref": "MHP-P-00248",
+    "occurred_at": "2026-05-17T11:19",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00166",
+    "patient_ref": "MHP-P-00005",
+    "occurred_at": "2026-04-28T17:19",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00167",
+    "patient_ref": "MHP-P-00108",
+    "occurred_at": "2026-03-31T13:26",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00168",
+    "patient_ref": "MHP-P-00039",
+    "occurred_at": "2026-03-05T10:05",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00153"
+  },
+  {
+    "interaction_id": "MHP-I-00169",
+    "patient_ref": "MHP-P-00345",
+    "occurred_at": "2025-09-05T10:46",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00170",
+    "patient_ref": "MHP-P-00168",
+    "occurred_at": "2025-09-03T18:41",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00171",
+    "patient_ref": "MHP-P-00350",
+    "occurred_at": "2026-05-03T14:52",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00172",
+    "patient_ref": "MHP-P-00026",
+    "occurred_at": "2026-01-16T13:41",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00173",
+    "patient_ref": "MHP-P-00394",
+    "occurred_at": "2026-01-29T17:22",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00174",
+    "patient_ref": "MHP-P-00373",
+    "occurred_at": "2026-05-10T12:24",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00129"
+  },
+  {
+    "interaction_id": "MHP-I-00175",
+    "patient_ref": "MHP-P-00110",
+    "occurred_at": "2026-05-04T08:02",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00139"
+  },
+  {
+    "interaction_id": "MHP-I-00176",
+    "patient_ref": "MHP-P-00341",
+    "occurred_at": "2026-05-09T16:27",
+    "channel": "phone",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00177",
+    "patient_ref": "MHP-P-00048",
+    "occurred_at": "2026-07-17T13:43",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00137"
+  },
+  {
+    "interaction_id": "MHP-I-00178",
+    "patient_ref": "MHP-P-00363",
+    "occurred_at": "2025-09-09T10:09",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00179",
+    "patient_ref": "MHP-P-00032",
+    "occurred_at": "2026-05-03T15:59",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00180",
+    "patient_ref": "MHP-P-00098",
+    "occurred_at": "2026-04-07T14:55",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00181",
+    "patient_ref": "MHP-P-00164",
+    "occurred_at": "2026-03-13T15:19",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00182",
+    "patient_ref": "MHP-P-00053",
+    "occurred_at": "2026-01-23T10:23",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00183",
+    "patient_ref": "MHP-P-00284",
+    "occurred_at": "2026-01-29T17:16",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00184",
+    "patient_ref": "MHP-P-00383",
+    "occurred_at": "2025-09-12T12:49",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00185",
+    "patient_ref": "MHP-P-00258",
+    "occurred_at": "2025-09-06T17:48",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00186",
+    "patient_ref": "MHP-P-00381",
+    "occurred_at": "2025-09-03T18:58",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00187",
+    "patient_ref": "MHP-P-00002",
+    "occurred_at": "2025-10-07T08:22",
+    "channel": "phone",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00188",
+    "patient_ref": "MHP-P-00044",
+    "occurred_at": "2026-03-23T14:55",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00189",
+    "patient_ref": "MHP-P-00126",
+    "occurred_at": "2026-01-23T08:13",
+    "channel": "phone",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00190",
+    "patient_ref": "MHP-P-00287",
+    "occurred_at": "2026-07-22T08:05",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00191",
+    "patient_ref": "MHP-P-00196",
+    "occurred_at": "2026-04-18T14:43",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00192",
+    "patient_ref": "MHP-P-00125",
+    "occurred_at": "2025-09-27T17:04",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00193",
+    "patient_ref": "MHP-P-00125",
+    "occurred_at": "2026-06-18T18:16",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00194",
+    "patient_ref": "MHP-P-00078",
+    "occurred_at": "2026-07-08T12:06",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00195",
+    "patient_ref": "MHP-P-00217",
+    "occurred_at": "2026-07-16T18:44",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00196",
+    "patient_ref": "MHP-P-00399",
+    "occurred_at": "2026-06-05T09:02",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00010"
+  },
+  {
+    "interaction_id": "MHP-I-00197",
+    "patient_ref": "MHP-P-00319",
+    "occurred_at": "2026-04-03T18:35",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00198",
+    "patient_ref": "MHP-P-00166",
+    "occurred_at": "2025-12-07T18:21",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00199",
+    "patient_ref": "MHP-P-00385",
+    "occurred_at": "2026-08-01T08:06",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00033"
+  },
+  {
+    "interaction_id": "MHP-I-00200",
+    "patient_ref": "MHP-P-00016",
+    "occurred_at": "2025-12-01T16:31",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00201",
+    "patient_ref": "MHP-P-00032",
+    "occurred_at": "2026-01-01T12:04",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00202",
+    "patient_ref": "MHP-P-00172",
+    "occurred_at": "2025-08-07T10:16",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00203",
+    "patient_ref": "MHP-P-00219",
+    "occurred_at": "2025-11-27T16:07",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00204",
+    "patient_ref": "MHP-P-00320",
+    "occurred_at": "2026-07-26T16:04",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00192"
+  },
+  {
+    "interaction_id": "MHP-I-00205",
+    "patient_ref": "MHP-P-00130",
+    "occurred_at": "2026-02-13T12:25",
+    "channel": "phone",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00206",
+    "patient_ref": "MHP-P-00160",
+    "occurred_at": "2026-07-20T09:22",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00207",
+    "patient_ref": "MHP-P-00302",
+    "occurred_at": "2026-01-12T10:14",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00208",
+    "patient_ref": "MHP-P-00209",
+    "occurred_at": "2026-01-13T18:44",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00209",
+    "patient_ref": "MHP-P-00324",
+    "occurred_at": "2026-03-29T14:20",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00210",
+    "patient_ref": "MHP-P-00114",
+    "occurred_at": "2026-05-26T14:55",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00211",
+    "patient_ref": "MHP-P-00174",
+    "occurred_at": "2026-02-13T18:30",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00212",
+    "patient_ref": "MHP-P-00269",
+    "occurred_at": "2026-04-05T18:44",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00288"
+  },
+  {
+    "interaction_id": "MHP-I-00213",
+    "patient_ref": "MHP-P-00254",
+    "occurred_at": "2025-09-29T12:06",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00214",
+    "patient_ref": "MHP-P-00080",
+    "occurred_at": "2026-07-05T15:39",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00215",
+    "patient_ref": "MHP-P-00228",
+    "occurred_at": "2026-06-09T11:39",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00216",
+    "patient_ref": "MHP-P-00127",
+    "occurred_at": "2026-01-07T13:32",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00217",
+    "patient_ref": "MHP-P-00265",
+    "occurred_at": "2026-02-19T11:55",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00099"
+  },
+  {
+    "interaction_id": "MHP-I-00218",
+    "patient_ref": "MHP-P-00093",
+    "occurred_at": "2026-06-14T18:50",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00219",
+    "patient_ref": "MHP-P-00003",
+    "occurred_at": "2025-11-12T14:58",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00220",
+    "patient_ref": "MHP-P-00104",
+    "occurred_at": "2025-09-15T10:13",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00221",
+    "patient_ref": "MHP-P-00037",
+    "occurred_at": "2025-08-13T10:55",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00222",
+    "patient_ref": "MHP-P-00341",
+    "occurred_at": "2026-05-20T14:00",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00041"
+  },
+  {
+    "interaction_id": "MHP-I-00223",
+    "patient_ref": "MHP-P-00273",
+    "occurred_at": "2025-12-10T15:38",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00224",
+    "patient_ref": "MHP-P-00377",
+    "occurred_at": "2026-05-21T12:19",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00225",
+    "patient_ref": "MHP-P-00000",
+    "occurred_at": "2026-05-07T15:54",
+    "channel": "phone",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00226",
+    "patient_ref": "MHP-P-00010",
+    "occurred_at": "2025-10-04T14:34",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00227",
+    "patient_ref": "MHP-P-00032",
+    "occurred_at": "2025-12-16T16:29",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00228",
+    "patient_ref": "MHP-P-00199",
+    "occurred_at": "2026-04-07T11:53",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00229",
+    "patient_ref": "MHP-P-00358",
+    "occurred_at": "2026-05-06T18:47",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00230",
+    "patient_ref": "MHP-P-00076",
+    "occurred_at": "2026-07-11T14:30",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00191"
+  },
+  {
+    "interaction_id": "MHP-I-00231",
+    "patient_ref": "MHP-P-00378",
+    "occurred_at": "2026-05-07T09:20",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00232",
+    "patient_ref": "MHP-P-00351",
+    "occurred_at": "2025-12-10T14:15",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00233",
+    "patient_ref": "MHP-P-00328",
+    "occurred_at": "2025-11-10T15:25",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00234",
+    "patient_ref": "MHP-P-00193",
+    "occurred_at": "2026-03-11T16:23",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00085"
+  },
+  {
+    "interaction_id": "MHP-I-00235",
+    "patient_ref": "MHP-P-00189",
+    "occurred_at": "2026-03-15T15:16",
+    "channel": "phone",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00236",
+    "patient_ref": "MHP-P-00380",
+    "occurred_at": "2026-05-28T16:21",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00237",
+    "patient_ref": "MHP-P-00203",
+    "occurred_at": "2026-03-12T18:01",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00238",
+    "patient_ref": "MHP-P-00120",
+    "occurred_at": "2025-10-03T14:31",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00239",
+    "patient_ref": "MHP-P-00002",
+    "occurred_at": "2025-09-22T17:08",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00240",
+    "patient_ref": "MHP-P-00155",
+    "occurred_at": "2026-04-13T16:17",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00241",
+    "patient_ref": "MHP-P-00352",
+    "occurred_at": "2026-07-23T12:28",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00242",
+    "patient_ref": "MHP-P-00320",
+    "occurred_at": "2026-07-10T16:18",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00246"
+  },
+  {
+    "interaction_id": "MHP-I-00243",
+    "patient_ref": "MHP-P-00382",
+    "occurred_at": "2025-11-19T18:37",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00244",
+    "patient_ref": "MHP-P-00356",
+    "occurred_at": "2026-04-20T10:38",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00245",
+    "patient_ref": "MHP-P-00265",
+    "occurred_at": "2026-04-15T11:48",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00132"
+  },
+  {
+    "interaction_id": "MHP-I-00246",
+    "patient_ref": "MHP-P-00381",
+    "occurred_at": "2025-11-22T10:49",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00247",
+    "patient_ref": "MHP-P-00288",
+    "occurred_at": "2025-12-10T10:26",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00248",
+    "patient_ref": "MHP-P-00070",
+    "occurred_at": "2026-07-10T11:21",
+    "channel": "phone",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00249",
+    "patient_ref": "MHP-P-00080",
+    "occurred_at": "2025-11-22T13:46",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00250",
+    "patient_ref": "MHP-P-00050",
+    "occurred_at": "2026-05-29T13:05",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00060"
+  },
+  {
+    "interaction_id": "MHP-I-00251",
+    "patient_ref": "MHP-P-00340",
+    "occurred_at": "2025-11-06T12:00",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00252",
+    "patient_ref": "MHP-P-00331",
+    "occurred_at": "2026-05-31T18:30",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00253",
+    "patient_ref": "MHP-P-00321",
+    "occurred_at": "2026-02-21T15:43",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00254",
+    "patient_ref": "MHP-P-00058",
+    "occurred_at": "2026-05-13T11:34",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00255",
+    "patient_ref": "MHP-P-00108",
+    "occurred_at": "2025-11-01T11:39",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00256",
+    "patient_ref": "MHP-P-00169",
+    "occurred_at": "2025-10-22T16:09",
+    "channel": "phone",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00257",
+    "patient_ref": "MHP-P-00031",
+    "occurred_at": "2026-01-16T18:46",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00258",
+    "patient_ref": "MHP-P-00125",
+    "occurred_at": "2026-05-30T17:19",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00259",
+    "patient_ref": "MHP-P-00172",
+    "occurred_at": "2026-07-31T11:52",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00260",
+    "patient_ref": "MHP-P-00032",
+    "occurred_at": "2026-05-06T12:55",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00261",
+    "patient_ref": "MHP-P-00164",
+    "occurred_at": "2025-11-08T09:49",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00262",
+    "patient_ref": "MHP-P-00246",
+    "occurred_at": "2026-06-01T16:22",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00263",
+    "patient_ref": "MHP-P-00204",
+    "occurred_at": "2025-09-29T17:07",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00264",
+    "patient_ref": "MHP-P-00107",
+    "occurred_at": "2026-06-14T17:43",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00265",
+    "patient_ref": "MHP-P-00248",
+    "occurred_at": "2026-06-30T17:13",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00266",
+    "patient_ref": "MHP-P-00176",
+    "occurred_at": "2026-02-05T17:07",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00267",
+    "patient_ref": "MHP-P-00328",
+    "occurred_at": "2026-05-04T08:11",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00268",
+    "patient_ref": "MHP-P-00310",
+    "occurred_at": "2025-10-24T16:44",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00269",
+    "patient_ref": "MHP-P-00361",
+    "occurred_at": "2026-02-04T17:22",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00270",
+    "patient_ref": "MHP-P-00189",
+    "occurred_at": "2026-07-13T18:48",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00271",
+    "patient_ref": "MHP-P-00344",
+    "occurred_at": "2025-08-02T08:04",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00272",
+    "patient_ref": "MHP-P-00180",
+    "occurred_at": "2026-02-17T12:13",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00273",
+    "patient_ref": "MHP-P-00260",
+    "occurred_at": "2026-03-22T10:56",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00274",
+    "patient_ref": "MHP-P-00008",
+    "occurred_at": "2026-02-09T15:07",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00275",
+    "patient_ref": "MHP-P-00250",
+    "occurred_at": "2025-12-03T13:36",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00276",
+    "patient_ref": "MHP-P-00033",
+    "occurred_at": "2026-06-20T11:46",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00056"
+  },
+  {
+    "interaction_id": "MHP-I-00277",
+    "patient_ref": "MHP-P-00016",
+    "occurred_at": "2026-04-09T17:16",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00278",
+    "patient_ref": "MHP-P-00006",
+    "occurred_at": "2025-11-12T17:46",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00279",
+    "patient_ref": "MHP-P-00331",
+    "occurred_at": "2025-12-15T15:23",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00280",
+    "patient_ref": "MHP-P-00027",
+    "occurred_at": "2026-06-11T15:13",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00281",
+    "patient_ref": "MHP-P-00062",
+    "occurred_at": "2026-05-22T08:15",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00118"
+  },
+  {
+    "interaction_id": "MHP-I-00282",
+    "patient_ref": "MHP-P-00387",
+    "occurred_at": "2026-05-03T12:53",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00283",
+    "patient_ref": "MHP-P-00039",
+    "occurred_at": "2026-07-31T08:51",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00284",
+    "patient_ref": "MHP-P-00137",
+    "occurred_at": "2025-11-02T18:50",
+    "channel": "phone",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00285",
+    "patient_ref": "MHP-P-00380",
+    "occurred_at": "2026-03-03T09:11",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00286",
+    "patient_ref": "MHP-P-00205",
+    "occurred_at": "2025-12-19T12:26",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00287",
+    "patient_ref": "MHP-P-00373",
+    "occurred_at": "2026-06-16T14:40",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00288",
+    "patient_ref": "MHP-P-00275",
+    "occurred_at": "2026-03-07T16:04",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00289",
+    "patient_ref": "MHP-P-00345",
+    "occurred_at": "2025-12-13T09:38",
+    "channel": "phone",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00290",
+    "patient_ref": "MHP-P-00118",
+    "occurred_at": "2026-02-26T13:28",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00291",
+    "patient_ref": "MHP-P-00322",
+    "occurred_at": "2026-07-15T15:26",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00038"
+  },
+  {
+    "interaction_id": "MHP-I-00292",
+    "patient_ref": "MHP-P-00248",
+    "occurred_at": "2025-12-25T16:07",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00293",
+    "patient_ref": "MHP-P-00389",
+    "occurred_at": "2026-01-05T16:36",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00294",
+    "patient_ref": "MHP-P-00040",
+    "occurred_at": "2026-06-20T09:19",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00032"
+  },
+  {
+    "interaction_id": "MHP-I-00295",
+    "patient_ref": "MHP-P-00360",
+    "occurred_at": "2026-07-17T10:53",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00296",
+    "patient_ref": "MHP-P-00168",
+    "occurred_at": "2026-02-07T15:14",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00297",
+    "patient_ref": "MHP-P-00113",
+    "occurred_at": "2026-02-16T15:47",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00298",
+    "patient_ref": "MHP-P-00208",
+    "occurred_at": "2026-03-03T10:22",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00140"
+  },
+  {
+    "interaction_id": "MHP-I-00299",
+    "patient_ref": "MHP-P-00130",
+    "occurred_at": "2025-10-01T09:04",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00300",
+    "patient_ref": "MHP-P-00329",
+    "occurred_at": "2025-08-18T14:24",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00301",
+    "patient_ref": "MHP-P-00286",
+    "occurred_at": "2025-09-06T11:37",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00302",
+    "patient_ref": "MHP-P-00140",
+    "occurred_at": "2025-12-01T15:15",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00303",
+    "patient_ref": "MHP-P-00128",
+    "occurred_at": "2026-05-24T13:20",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00304",
+    "patient_ref": "MHP-P-00259",
+    "occurred_at": "2026-07-09T16:27",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00238"
+  },
+  {
+    "interaction_id": "MHP-I-00305",
+    "patient_ref": "MHP-P-00302",
+    "occurred_at": "2025-09-02T13:51",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00306",
+    "patient_ref": "MHP-P-00303",
+    "occurred_at": "2026-07-13T09:55",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00307",
+    "patient_ref": "MHP-P-00301",
+    "occurred_at": "2025-08-19T10:00",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00308",
+    "patient_ref": "MHP-P-00199",
+    "occurred_at": "2026-06-12T08:29",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00051"
+  },
+  {
+    "interaction_id": "MHP-I-00309",
+    "patient_ref": "MHP-P-00330",
+    "occurred_at": "2026-05-04T14:27",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00310",
+    "patient_ref": "MHP-P-00090",
+    "occurred_at": "2026-03-15T10:35",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00311",
+    "patient_ref": "MHP-P-00127",
+    "occurred_at": "2026-06-21T15:59",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00046"
+  },
+  {
+    "interaction_id": "MHP-I-00312",
+    "patient_ref": "MHP-P-00170",
+    "occurred_at": "2026-01-24T09:34",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00313",
+    "patient_ref": "MHP-P-00216",
+    "occurred_at": "2026-05-21T13:22",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00314",
+    "patient_ref": "MHP-P-00144",
+    "occurred_at": "2026-04-04T10:55",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00315",
+    "patient_ref": "MHP-P-00241",
+    "occurred_at": "2026-05-18T15:34",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00316",
+    "patient_ref": "MHP-P-00265",
+    "occurred_at": "2025-11-20T12:56",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00317",
+    "patient_ref": "MHP-P-00339",
+    "occurred_at": "2026-01-21T18:26",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00318",
+    "patient_ref": "MHP-P-00113",
+    "occurred_at": "2025-08-05T13:44",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00319",
+    "patient_ref": "MHP-P-00107",
+    "occurred_at": "2026-04-11T08:11",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00074"
+  },
+  {
+    "interaction_id": "MHP-I-00320",
+    "patient_ref": "MHP-P-00183",
+    "occurred_at": "2026-01-13T13:06",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00321",
+    "patient_ref": "MHP-P-00186",
+    "occurred_at": "2025-09-15T16:15",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00322",
+    "patient_ref": "MHP-P-00316",
+    "occurred_at": "2026-04-20T13:49",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00323",
+    "patient_ref": "MHP-P-00020",
+    "occurred_at": "2026-03-10T13:13",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00109"
+  },
+  {
+    "interaction_id": "MHP-I-00324",
+    "patient_ref": "MHP-P-00296",
+    "occurred_at": "2025-12-03T14:16",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00325",
+    "patient_ref": "MHP-P-00128",
+    "occurred_at": "2026-07-11T13:15",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00075"
+  },
+  {
+    "interaction_id": "MHP-I-00326",
+    "patient_ref": "MHP-P-00268",
+    "occurred_at": "2026-03-08T17:24",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00029"
+  },
+  {
+    "interaction_id": "MHP-I-00327",
+    "patient_ref": "MHP-P-00147",
+    "occurred_at": "2025-09-26T12:18",
+    "channel": "phone",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00328",
+    "patient_ref": "MHP-P-00225",
+    "occurred_at": "2025-09-27T09:37",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00329",
+    "patient_ref": "MHP-P-00043",
+    "occurred_at": "2026-02-05T14:35",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00330",
+    "patient_ref": "MHP-P-00199",
+    "occurred_at": "2026-07-04T08:30",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00051"
+  },
+  {
+    "interaction_id": "MHP-I-00331",
+    "patient_ref": "MHP-P-00256",
+    "occurred_at": "2026-02-08T09:00",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00332",
+    "patient_ref": "MHP-P-00035",
+    "occurred_at": "2026-07-31T12:44",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00333",
+    "patient_ref": "MHP-P-00333",
+    "occurred_at": "2026-04-15T08:08",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00334",
+    "patient_ref": "MHP-P-00196",
+    "occurred_at": "2026-01-09T08:33",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00335",
+    "patient_ref": "MHP-P-00098",
+    "occurred_at": "2025-12-24T11:13",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00336",
+    "patient_ref": "MHP-P-00255",
+    "occurred_at": "2025-11-27T17:24",
+    "channel": "phone",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00337",
+    "patient_ref": "MHP-P-00364",
+    "occurred_at": "2025-12-12T14:30",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00338",
+    "patient_ref": "MHP-P-00201",
+    "occurred_at": "2026-07-21T11:15",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00339",
+    "patient_ref": "MHP-P-00072",
+    "occurred_at": "2026-05-26T10:49",
+    "channel": "phone",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00340",
+    "patient_ref": "MHP-P-00218",
+    "occurred_at": "2026-06-22T08:49",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00341",
+    "patient_ref": "MHP-P-00302",
+    "occurred_at": "2025-08-27T17:17",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00342",
+    "patient_ref": "MHP-P-00133",
+    "occurred_at": "2026-07-11T11:25",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00343",
+    "patient_ref": "MHP-P-00162",
+    "occurred_at": "2026-07-21T15:57",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00024"
+  },
+  {
+    "interaction_id": "MHP-I-00344",
+    "patient_ref": "MHP-P-00269",
+    "occurred_at": "2026-02-25T08:26",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00345",
+    "patient_ref": "MHP-P-00344",
+    "occurred_at": "2026-04-13T17:39",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00346",
+    "patient_ref": "MHP-P-00160",
+    "occurred_at": "2025-10-20T12:36",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00347",
+    "patient_ref": "MHP-P-00036",
+    "occurred_at": "2026-06-22T10:59",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00348",
+    "patient_ref": "MHP-P-00193",
+    "occurred_at": "2026-02-15T17:36",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00085"
+  },
+  {
+    "interaction_id": "MHP-I-00349",
+    "patient_ref": "MHP-P-00054",
+    "occurred_at": "2025-09-09T17:11",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00350",
+    "patient_ref": "MHP-P-00077",
+    "occurred_at": "2026-03-04T08:25",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00351",
+    "patient_ref": "MHP-P-00371",
+    "occurred_at": "2026-07-27T14:06",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00147"
+  },
+  {
+    "interaction_id": "MHP-I-00352",
+    "patient_ref": "MHP-P-00151",
+    "occurred_at": "2026-06-10T14:42",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00353",
+    "patient_ref": "MHP-P-00135",
+    "occurred_at": "2025-09-20T11:45",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00354",
+    "patient_ref": "MHP-P-00010",
+    "occurred_at": "2026-01-30T11:40",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00355",
+    "patient_ref": "MHP-P-00341",
+    "occurred_at": "2026-08-01T08:28",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00080"
+  },
+  {
+    "interaction_id": "MHP-I-00356",
+    "patient_ref": "MHP-P-00087",
+    "occurred_at": "2025-08-30T15:05",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00357",
+    "patient_ref": "MHP-P-00345",
+    "occurred_at": "2025-12-27T08:13",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00358",
+    "patient_ref": "MHP-P-00011",
+    "occurred_at": "2025-10-04T12:15",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00359",
+    "patient_ref": "MHP-P-00394",
+    "occurred_at": "2025-10-09T17:31",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00360",
+    "patient_ref": "MHP-P-00044",
+    "occurred_at": "2025-09-17T12:37",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00361",
+    "patient_ref": "MHP-P-00079",
+    "occurred_at": "2026-07-30T10:42",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00362",
+    "patient_ref": "MHP-P-00279",
+    "occurred_at": "2026-08-01T08:42",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00012"
+  },
+  {
+    "interaction_id": "MHP-I-00363",
+    "patient_ref": "MHP-P-00311",
+    "occurred_at": "2025-11-26T18:45",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00364",
+    "patient_ref": "MHP-P-00081",
+    "occurred_at": "2025-09-01T16:20",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00365",
+    "patient_ref": "MHP-P-00123",
+    "occurred_at": "2026-01-18T08:44",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00366",
+    "patient_ref": "MHP-P-00265",
+    "occurred_at": "2026-03-11T12:44",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00293"
+  },
+  {
+    "interaction_id": "MHP-I-00367",
+    "patient_ref": "MHP-P-00011",
+    "occurred_at": "2026-01-22T12:05",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00368",
+    "patient_ref": "MHP-P-00286",
+    "occurred_at": "2026-02-14T09:18",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00369",
+    "patient_ref": "MHP-P-00241",
+    "occurred_at": "2025-12-01T13:34",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00370",
+    "patient_ref": "MHP-P-00354",
+    "occurred_at": "2026-07-02T16:10",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00371",
+    "patient_ref": "MHP-P-00233",
+    "occurred_at": "2025-12-17T08:41",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00372",
+    "patient_ref": "MHP-P-00266",
+    "occurred_at": "2026-03-27T10:40",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00373",
+    "patient_ref": "MHP-P-00132",
+    "occurred_at": "2025-09-26T10:14",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00374",
+    "patient_ref": "MHP-P-00088",
+    "occurred_at": "2026-03-15T13:07",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00375",
+    "patient_ref": "MHP-P-00362",
+    "occurred_at": "2026-02-27T17:45",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00376",
+    "patient_ref": "MHP-P-00162",
+    "occurred_at": "2026-03-22T11:52",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00030"
+  },
+  {
+    "interaction_id": "MHP-I-00377",
+    "patient_ref": "MHP-P-00321",
+    "occurred_at": "2025-09-26T11:26",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00378",
+    "patient_ref": "MHP-P-00139",
+    "occurred_at": "2026-07-12T08:40",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00379",
+    "patient_ref": "MHP-P-00128",
+    "occurred_at": "2025-11-30T13:40",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00380",
+    "patient_ref": "MHP-P-00150",
+    "occurred_at": "2025-10-04T13:00",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00381",
+    "patient_ref": "MHP-P-00224",
+    "occurred_at": "2026-06-04T15:57",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00104"
+  },
+  {
+    "interaction_id": "MHP-I-00382",
+    "patient_ref": "MHP-P-00011",
+    "occurred_at": "2025-10-08T18:07",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00383",
+    "patient_ref": "MHP-P-00336",
+    "occurred_at": "2026-02-28T11:24",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00384",
+    "patient_ref": "MHP-P-00144",
+    "occurred_at": "2025-08-12T10:48",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00385",
+    "patient_ref": "MHP-P-00030",
+    "occurred_at": "2025-09-17T08:16",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00386",
+    "patient_ref": "MHP-P-00296",
+    "occurred_at": "2026-04-05T08:44",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00387",
+    "patient_ref": "MHP-P-00313",
+    "occurred_at": "2026-03-22T17:44",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00251"
+  },
+  {
+    "interaction_id": "MHP-I-00388",
+    "patient_ref": "MHP-P-00265",
+    "occurred_at": "2026-03-09T08:05",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00099"
+  },
+  {
+    "interaction_id": "MHP-I-00389",
+    "patient_ref": "MHP-P-00228",
+    "occurred_at": "2025-12-12T09:18",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00390",
+    "patient_ref": "MHP-P-00329",
+    "occurred_at": "2026-07-16T17:17",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00391",
+    "patient_ref": "MHP-P-00102",
+    "occurred_at": "2026-07-24T14:57",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00392",
+    "patient_ref": "MHP-P-00294",
+    "occurred_at": "2026-05-14T16:24",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00393",
+    "patient_ref": "MHP-P-00053",
+    "occurred_at": "2026-07-16T13:17",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00394",
+    "patient_ref": "MHP-P-00167",
+    "occurred_at": "2026-04-10T16:24",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00254"
+  },
+  {
+    "interaction_id": "MHP-I-00395",
+    "patient_ref": "MHP-P-00205",
+    "occurred_at": "2026-02-14T13:01",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00396",
+    "patient_ref": "MHP-P-00335",
+    "occurred_at": "2026-05-23T17:11",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00397",
+    "patient_ref": "MHP-P-00340",
+    "occurred_at": "2026-05-21T12:50",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00020"
+  },
+  {
+    "interaction_id": "MHP-I-00398",
+    "patient_ref": "MHP-P-00225",
+    "occurred_at": "2025-08-09T17:30",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00399",
+    "patient_ref": "MHP-P-00078",
+    "occurred_at": "2026-03-25T10:10",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00400",
+    "patient_ref": "MHP-P-00003",
+    "occurred_at": "2025-12-21T15:44",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00401",
+    "patient_ref": "MHP-P-00264",
+    "occurred_at": "2026-04-10T13:55",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00402",
+    "patient_ref": "MHP-P-00392",
+    "occurred_at": "2026-06-04T18:23",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00022"
+  },
+  {
+    "interaction_id": "MHP-I-00403",
+    "patient_ref": "MHP-P-00224",
+    "occurred_at": "2025-09-18T13:22",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00404",
+    "patient_ref": "MHP-P-00375",
+    "occurred_at": "2026-04-01T15:12",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00081"
+  },
+  {
+    "interaction_id": "MHP-I-00405",
+    "patient_ref": "MHP-P-00075",
+    "occurred_at": "2026-01-21T17:08",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00406",
+    "patient_ref": "MHP-P-00213",
+    "occurred_at": "2026-05-08T09:23",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00407",
+    "patient_ref": "MHP-P-00390",
+    "occurred_at": "2026-07-20T18:45",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00408",
+    "patient_ref": "MHP-P-00349",
+    "occurred_at": "2025-10-19T17:34",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00409",
+    "patient_ref": "MHP-P-00124",
+    "occurred_at": "2026-06-30T15:01",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00410",
+    "patient_ref": "MHP-P-00159",
+    "occurred_at": "2026-07-29T18:00",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00411",
+    "patient_ref": "MHP-P-00358",
+    "occurred_at": "2026-04-13T12:25",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00205"
+  },
+  {
+    "interaction_id": "MHP-I-00412",
+    "patient_ref": "MHP-P-00374",
+    "occurred_at": "2026-06-04T18:54",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00413",
+    "patient_ref": "MHP-P-00079",
+    "occurred_at": "2026-05-19T13:27",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00179"
+  },
+  {
+    "interaction_id": "MHP-I-00414",
+    "patient_ref": "MHP-P-00284",
+    "occurred_at": "2026-05-21T16:58",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00415",
+    "patient_ref": "MHP-P-00382",
+    "occurred_at": "2025-12-21T14:12",
+    "channel": "phone",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00416",
+    "patient_ref": "MHP-P-00291",
+    "occurred_at": "2025-10-09T16:18",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00417",
+    "patient_ref": "MHP-P-00208",
+    "occurred_at": "2026-02-26T12:36",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00140"
+  },
+  {
+    "interaction_id": "MHP-I-00418",
+    "patient_ref": "MHP-P-00095",
+    "occurred_at": "2025-11-02T12:57",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00419",
+    "patient_ref": "MHP-P-00019",
+    "occurred_at": "2026-03-20T10:24",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00248"
+  },
+  {
+    "interaction_id": "MHP-I-00420",
+    "patient_ref": "MHP-P-00227",
+    "occurred_at": "2025-12-20T17:36",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00421",
+    "patient_ref": "MHP-P-00338",
+    "occurred_at": "2026-07-23T11:08",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00422",
+    "patient_ref": "MHP-P-00133",
+    "occurred_at": "2026-07-13T10:55",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00423",
+    "patient_ref": "MHP-P-00191",
+    "occurred_at": "2025-10-17T08:12",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00424",
+    "patient_ref": "MHP-P-00077",
+    "occurred_at": "2025-08-13T14:38",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00425",
+    "patient_ref": "MHP-P-00140",
+    "occurred_at": "2026-05-24T17:38",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00426",
+    "patient_ref": "MHP-P-00286",
+    "occurred_at": "2026-06-19T11:48",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00427",
+    "patient_ref": "MHP-P-00072",
+    "occurred_at": "2026-06-03T09:23",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00428",
+    "patient_ref": "MHP-P-00066",
+    "occurred_at": "2025-11-02T15:38",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00429",
+    "patient_ref": "MHP-P-00232",
+    "occurred_at": "2026-01-19T14:05",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00430",
+    "patient_ref": "MHP-P-00256",
+    "occurred_at": "2026-04-18T10:46",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00431",
+    "patient_ref": "MHP-P-00340",
+    "occurred_at": "2026-05-11T17:41",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00020"
+  },
+  {
+    "interaction_id": "MHP-I-00432",
+    "patient_ref": "MHP-P-00095",
+    "occurred_at": "2026-03-27T15:18",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00433",
+    "patient_ref": "MHP-P-00288",
+    "occurred_at": "2026-07-08T14:28",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00434",
+    "patient_ref": "MHP-P-00169",
+    "occurred_at": "2026-03-03T11:46",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00435",
+    "patient_ref": "MHP-P-00184",
+    "occurred_at": "2026-06-15T17:07",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00247"
+  },
+  {
+    "interaction_id": "MHP-I-00436",
+    "patient_ref": "MHP-P-00022",
+    "occurred_at": "2026-06-10T16:33",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00437",
+    "patient_ref": "MHP-P-00240",
+    "occurred_at": "2025-10-06T10:54",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00438",
+    "patient_ref": "MHP-P-00077",
+    "occurred_at": "2026-02-25T13:18",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00439",
+    "patient_ref": "MHP-P-00356",
+    "occurred_at": "2026-05-19T15:38",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00440",
+    "patient_ref": "MHP-P-00296",
+    "occurred_at": "2026-04-10T12:43",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00441",
+    "patient_ref": "MHP-P-00286",
+    "occurred_at": "2026-07-30T17:38",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00442",
+    "patient_ref": "MHP-P-00036",
+    "occurred_at": "2026-05-20T18:36",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00443",
+    "patient_ref": "MHP-P-00282",
+    "occurred_at": "2026-03-15T09:07",
+    "channel": "phone",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00444",
+    "patient_ref": "MHP-P-00353",
+    "occurred_at": "2026-08-01T08:40",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00014"
+  },
+  {
+    "interaction_id": "MHP-I-00445",
+    "patient_ref": "MHP-P-00129",
+    "occurred_at": "2025-09-11T08:10",
+    "channel": "phone",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00446",
+    "patient_ref": "MHP-P-00094",
+    "occurred_at": "2025-08-16T18:53",
+    "channel": "phone",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00447",
+    "patient_ref": "MHP-P-00011",
+    "occurred_at": "2026-01-28T11:35",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00448",
+    "patient_ref": "MHP-P-00087",
+    "occurred_at": "2026-06-30T08:40",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00449",
+    "patient_ref": "MHP-P-00365",
+    "occurred_at": "2025-08-05T12:16",
+    "channel": "phone",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00450",
+    "patient_ref": "MHP-P-00116",
+    "occurred_at": "2026-04-11T08:41",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00451",
+    "patient_ref": "MHP-P-00217",
+    "occurred_at": "2026-06-23T14:37",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00452",
+    "patient_ref": "MHP-P-00370",
+    "occurred_at": "2026-07-26T17:13",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00083"
+  },
+  {
+    "interaction_id": "MHP-I-00453",
+    "patient_ref": "MHP-P-00109",
+    "occurred_at": "2026-08-01T08:23",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00002"
+  },
+  {
+    "interaction_id": "MHP-I-00454",
+    "patient_ref": "MHP-P-00221",
+    "occurred_at": "2026-01-30T17:23",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00455",
+    "patient_ref": "MHP-P-00277",
+    "occurred_at": "2026-05-19T08:08",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00456",
+    "patient_ref": "MHP-P-00346",
+    "occurred_at": "2026-01-27T18:22",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00457",
+    "patient_ref": "MHP-P-00007",
+    "occurred_at": "2025-09-26T09:22",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00458",
+    "patient_ref": "MHP-P-00053",
+    "occurred_at": "2026-05-26T09:28",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00459",
+    "patient_ref": "MHP-P-00103",
+    "occurred_at": "2025-11-09T09:34",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00460",
+    "patient_ref": "MHP-P-00244",
+    "occurred_at": "2025-11-05T11:40",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00461",
+    "patient_ref": "MHP-P-00344",
+    "occurred_at": "2026-06-25T11:15",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00462",
+    "patient_ref": "MHP-P-00347",
+    "occurred_at": "2025-09-07T14:59",
+    "channel": "phone",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00463",
+    "patient_ref": "MHP-P-00089",
+    "occurred_at": "2025-09-11T18:15",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00464",
+    "patient_ref": "MHP-P-00305",
+    "occurred_at": "2026-02-25T14:49",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00465",
+    "patient_ref": "MHP-P-00105",
+    "occurred_at": "2025-08-13T15:17",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00466",
+    "patient_ref": "MHP-P-00343",
+    "occurred_at": "2025-12-16T11:33",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00467",
+    "patient_ref": "MHP-P-00392",
+    "occurred_at": "2026-04-13T09:59",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00468",
+    "patient_ref": "MHP-P-00266",
+    "occurred_at": "2026-04-16T13:44",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00469",
+    "patient_ref": "MHP-P-00378",
+    "occurred_at": "2026-05-08T14:41",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00470",
+    "patient_ref": "MHP-P-00263",
+    "occurred_at": "2026-05-16T10:53",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00471",
+    "patient_ref": "MHP-P-00023",
+    "occurred_at": "2026-06-11T16:07",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00472",
+    "patient_ref": "MHP-P-00168",
+    "occurred_at": "2026-01-01T13:14",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00473",
+    "patient_ref": "MHP-P-00004",
+    "occurred_at": "2025-10-25T10:50",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00474",
+    "patient_ref": "MHP-P-00252",
+    "occurred_at": "2026-06-29T13:05",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00475",
+    "patient_ref": "MHP-P-00376",
+    "occurred_at": "2026-05-16T16:57",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00476",
+    "patient_ref": "MHP-P-00295",
+    "occurred_at": "2026-04-17T08:03",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00040"
+  },
+  {
+    "interaction_id": "MHP-I-00477",
+    "patient_ref": "MHP-P-00363",
+    "occurred_at": "2026-02-16T13:14",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00478",
+    "patient_ref": "MHP-P-00292",
+    "occurred_at": "2026-05-10T14:45",
+    "channel": "phone",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00479",
+    "patient_ref": "MHP-P-00375",
+    "occurred_at": "2026-04-02T13:02",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00081"
+  },
+  {
+    "interaction_id": "MHP-I-00480",
+    "patient_ref": "MHP-P-00220",
+    "occurred_at": "2026-01-31T10:39",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00481",
+    "patient_ref": "MHP-P-00162",
+    "occurred_at": "2026-03-23T16:24",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00482",
+    "patient_ref": "MHP-P-00110",
+    "occurred_at": "2026-04-23T09:22",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00139"
+  },
+  {
+    "interaction_id": "MHP-I-00483",
+    "patient_ref": "MHP-P-00083",
+    "occurred_at": "2025-09-04T11:40",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00484",
+    "patient_ref": "MHP-P-00254",
+    "occurred_at": "2026-08-01T08:50",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00146"
+  },
+  {
+    "interaction_id": "MHP-I-00485",
+    "patient_ref": "MHP-P-00340",
+    "occurred_at": "2026-05-07T09:38",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00020"
+  },
+  {
+    "interaction_id": "MHP-I-00486",
+    "patient_ref": "MHP-P-00392",
+    "occurred_at": "2026-03-26T08:46",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00013"
+  },
+  {
+    "interaction_id": "MHP-I-00487",
+    "patient_ref": "MHP-P-00220",
+    "occurred_at": "2026-07-14T15:51",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00488",
+    "patient_ref": "MHP-P-00280",
+    "occurred_at": "2025-10-30T16:40",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00489",
+    "patient_ref": "MHP-P-00325",
+    "occurred_at": "2026-06-22T16:11",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00490",
+    "patient_ref": "MHP-P-00248",
+    "occurred_at": "2025-10-14T11:43",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00491",
+    "patient_ref": "MHP-P-00265",
+    "occurred_at": "2026-03-17T18:13",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00099"
+  },
+  {
+    "interaction_id": "MHP-I-00492",
+    "patient_ref": "MHP-P-00120",
+    "occurred_at": "2026-06-18T09:24",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00493",
+    "patient_ref": "MHP-P-00229",
+    "occurred_at": "2026-05-30T13:32",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00213"
+  },
+  {
+    "interaction_id": "MHP-I-00494",
+    "patient_ref": "MHP-P-00093",
+    "occurred_at": "2025-08-18T16:24",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00495",
+    "patient_ref": "MHP-P-00250",
+    "occurred_at": "2025-12-31T16:35",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00496",
+    "patient_ref": "MHP-P-00336",
+    "occurred_at": "2025-12-01T17:30",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00497",
+    "patient_ref": "MHP-P-00296",
+    "occurred_at": "2026-02-18T16:06",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00498",
+    "patient_ref": "MHP-P-00266",
+    "occurred_at": "2026-01-08T09:09",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00499",
+    "patient_ref": "MHP-P-00154",
+    "occurred_at": "2025-12-31T09:09",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00500",
+    "patient_ref": "MHP-P-00050",
+    "occurred_at": "2026-05-23T09:56",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00060"
+  },
+  {
+    "interaction_id": "MHP-I-00501",
+    "patient_ref": "MHP-P-00271",
+    "occurred_at": "2026-07-10T18:00",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00502",
+    "patient_ref": "MHP-P-00167",
+    "occurred_at": "2025-08-18T12:45",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00503",
+    "patient_ref": "MHP-P-00103",
+    "occurred_at": "2026-04-29T18:01",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00208"
+  },
+  {
+    "interaction_id": "MHP-I-00504",
+    "patient_ref": "MHP-P-00049",
+    "occurred_at": "2025-10-31T09:15",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00505",
+    "patient_ref": "MHP-P-00279",
+    "occurred_at": "2026-08-01T08:53",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00012"
+  },
+  {
+    "interaction_id": "MHP-I-00506",
+    "patient_ref": "MHP-P-00177",
+    "occurred_at": "2026-05-19T11:15",
+    "channel": "phone",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00507",
+    "patient_ref": "MHP-P-00049",
+    "occurred_at": "2026-01-05T09:10",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00508",
+    "patient_ref": "MHP-P-00185",
+    "occurred_at": "2026-05-15T18:44",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00182"
+  },
+  {
+    "interaction_id": "MHP-I-00509",
+    "patient_ref": "MHP-P-00204",
+    "occurred_at": "2026-07-27T11:31",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00510",
+    "patient_ref": "MHP-P-00189",
+    "occurred_at": "2026-06-10T11:16",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00511",
+    "patient_ref": "MHP-P-00111",
+    "occurred_at": "2026-06-13T11:58",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00512",
+    "patient_ref": "MHP-P-00167",
+    "occurred_at": "2026-04-29T17:12",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00254"
+  },
+  {
+    "interaction_id": "MHP-I-00513",
+    "patient_ref": "MHP-P-00015",
+    "occurred_at": "2026-07-02T15:43",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00514",
+    "patient_ref": "MHP-P-00175",
+    "occurred_at": "2025-09-09T10:30",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00515",
+    "patient_ref": "MHP-P-00256",
+    "occurred_at": "2026-04-21T18:11",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00516",
+    "patient_ref": "MHP-P-00157",
+    "occurred_at": "2026-05-23T11:46",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00517",
+    "patient_ref": "MHP-P-00240",
+    "occurred_at": "2025-10-30T14:11",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00518",
+    "patient_ref": "MHP-P-00021",
+    "occurred_at": "2026-04-02T11:49",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00519",
+    "patient_ref": "MHP-P-00365",
+    "occurred_at": "2025-08-01T13:15",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00520",
+    "patient_ref": "MHP-P-00287",
+    "occurred_at": "2026-07-24T09:38",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00521",
+    "patient_ref": "MHP-P-00064",
+    "occurred_at": "2026-06-02T17:00",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00095"
+  },
+  {
+    "interaction_id": "MHP-I-00522",
+    "patient_ref": "MHP-P-00318",
+    "occurred_at": "2026-01-16T14:25",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00523",
+    "patient_ref": "MHP-P-00392",
+    "occurred_at": "2025-08-17T13:12",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00524",
+    "patient_ref": "MHP-P-00069",
+    "occurred_at": "2026-01-18T11:35",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00525",
+    "patient_ref": "MHP-P-00074",
+    "occurred_at": "2025-10-30T14:50",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00526",
+    "patient_ref": "MHP-P-00304",
+    "occurred_at": "2026-05-03T18:46",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00527",
+    "patient_ref": "MHP-P-00164",
+    "occurred_at": "2026-07-18T15:00",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00528",
+    "patient_ref": "MHP-P-00160",
+    "occurred_at": "2026-03-15T13:59",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00529",
+    "patient_ref": "MHP-P-00391",
+    "occurred_at": "2025-10-23T08:49",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00530",
+    "patient_ref": "MHP-P-00348",
+    "occurred_at": "2026-07-22T16:56",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00531",
+    "patient_ref": "MHP-P-00122",
+    "occurred_at": "2025-11-30T12:16",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00532",
+    "patient_ref": "MHP-P-00386",
+    "occurred_at": "2026-05-08T09:38",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00533",
+    "patient_ref": "MHP-P-00105",
+    "occurred_at": "2026-03-10T17:26",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00534",
+    "patient_ref": "MHP-P-00084",
+    "occurred_at": "2026-07-01T10:26",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00535",
+    "patient_ref": "MHP-P-00141",
+    "occurred_at": "2026-07-08T08:34",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00047"
+  },
+  {
+    "interaction_id": "MHP-I-00536",
+    "patient_ref": "MHP-P-00339",
+    "occurred_at": "2025-09-06T12:15",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00537",
+    "patient_ref": "MHP-P-00081",
+    "occurred_at": "2026-02-15T13:04",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00538",
+    "patient_ref": "MHP-P-00016",
+    "occurred_at": "2026-01-22T11:17",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00539",
+    "patient_ref": "MHP-P-00330",
+    "occurred_at": "2026-05-03T17:35",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00299"
+  },
+  {
+    "interaction_id": "MHP-I-00540",
+    "patient_ref": "MHP-P-00356",
+    "occurred_at": "2026-06-11T16:29",
+    "channel": "web_form",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00541",
+    "patient_ref": "MHP-P-00340",
+    "occurred_at": "2026-05-22T16:28",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00020"
+  },
+  {
+    "interaction_id": "MHP-I-00542",
+    "patient_ref": "MHP-P-00189",
+    "occurred_at": "2026-02-02T17:34",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00543",
+    "patient_ref": "MHP-P-00064",
+    "occurred_at": "2025-09-27T15:50",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00544",
+    "patient_ref": "MHP-P-00216",
+    "occurred_at": "2026-05-03T18:06",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00545",
+    "patient_ref": "MHP-P-00159",
+    "occurred_at": "2025-12-10T09:22",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00546",
+    "patient_ref": "MHP-P-00119",
+    "occurred_at": "2026-06-02T10:42",
+    "channel": "phone",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00547",
+    "patient_ref": "MHP-P-00358",
+    "occurred_at": "2026-05-20T18:30",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00093"
+  },
+  {
+    "interaction_id": "MHP-I-00548",
+    "patient_ref": "MHP-P-00015",
+    "occurred_at": "2026-03-24T17:25",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00180"
+  },
+  {
+    "interaction_id": "MHP-I-00549",
+    "patient_ref": "MHP-P-00379",
+    "occurred_at": "2026-06-15T14:09",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00297"
+  },
+  {
+    "interaction_id": "MHP-I-00550",
+    "patient_ref": "MHP-P-00360",
+    "occurred_at": "2026-02-02T08:12",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00551",
+    "patient_ref": "MHP-P-00238",
+    "occurred_at": "2025-10-20T18:25",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00552",
+    "patient_ref": "MHP-P-00359",
+    "occurred_at": "2026-06-12T18:28",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00553",
+    "patient_ref": "MHP-P-00256",
+    "occurred_at": "2026-01-03T17:16",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00554",
+    "patient_ref": "MHP-P-00328",
+    "occurred_at": "2026-07-19T08:09",
+    "channel": "phone",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00555",
+    "patient_ref": "MHP-P-00025",
+    "occurred_at": "2025-11-22T11:42",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00556",
+    "patient_ref": "MHP-P-00320",
+    "occurred_at": "2026-03-07T10:29",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00557",
+    "patient_ref": "MHP-P-00014",
+    "occurred_at": "2025-10-01T18:12",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00558",
+    "patient_ref": "MHP-P-00321",
+    "occurred_at": "2025-11-10T14:25",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00559",
+    "patient_ref": "MHP-P-00392",
+    "occurred_at": "2026-05-18T12:12",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00022"
+  },
+  {
+    "interaction_id": "MHP-I-00560",
+    "patient_ref": "MHP-P-00395",
+    "occurred_at": "2026-04-11T10:18",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00091"
+  },
+  {
+    "interaction_id": "MHP-I-00561",
+    "patient_ref": "MHP-P-00059",
+    "occurred_at": "2026-08-01T08:42",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00157"
+  },
+  {
+    "interaction_id": "MHP-I-00562",
+    "patient_ref": "MHP-P-00244",
+    "occurred_at": "2025-11-16T15:35",
+    "channel": "web_form",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00563",
+    "patient_ref": "MHP-P-00062",
+    "occurred_at": "2026-01-06T15:52",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00564",
+    "patient_ref": "MHP-P-00155",
+    "occurred_at": "2026-07-02T13:52",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00565",
+    "patient_ref": "MHP-P-00163",
+    "occurred_at": "2025-10-07T15:31",
+    "channel": "web_form",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00566",
+    "patient_ref": "MHP-P-00001",
+    "occurred_at": "2026-07-06T11:47",
+    "channel": "email",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00008"
+  },
+  {
+    "interaction_id": "MHP-I-00567",
+    "patient_ref": "MHP-P-00267",
+    "occurred_at": "2025-10-13T14:30",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00568",
+    "patient_ref": "MHP-P-00021",
+    "occurred_at": "2025-09-24T12:28",
+    "channel": "phone",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00569",
+    "patient_ref": "MHP-P-00378",
+    "occurred_at": "2026-04-24T15:28",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00287"
+  },
+  {
+    "interaction_id": "MHP-I-00570",
+    "patient_ref": "MHP-P-00165",
+    "occurred_at": "2026-07-26T10:23",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00571",
+    "patient_ref": "MHP-P-00033",
+    "occurred_at": "2025-12-11T17:20",
+    "channel": "phone",
+    "topic": "billing_question",
+    "outcome": "resolved",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00572",
+    "patient_ref": "MHP-P-00092",
+    "occurred_at": "2025-08-13T14:25",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00573",
+    "patient_ref": "MHP-P-00019",
+    "occurred_at": "2025-12-20T08:38",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00574",
+    "patient_ref": "MHP-P-00176",
+    "occurred_at": "2026-03-21T16:02",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00203"
+  },
+  {
+    "interaction_id": "MHP-I-00575",
+    "patient_ref": "MHP-P-00040",
+    "occurred_at": "2026-07-14T08:50",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00576",
+    "patient_ref": "MHP-P-00255",
+    "occurred_at": "2025-11-10T10:29",
+    "channel": "sms",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00577",
+    "patient_ref": "MHP-P-00191",
+    "occurred_at": "2026-03-16T18:05",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00578",
+    "patient_ref": "MHP-P-00041",
+    "occurred_at": "2025-11-06T15:06",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00579",
+    "patient_ref": "MHP-P-00144",
+    "occurred_at": "2026-01-05T16:34",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00580",
+    "patient_ref": "MHP-P-00034",
+    "occurred_at": "2026-05-27T10:44",
+    "channel": "email",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00581",
+    "patient_ref": "MHP-P-00056",
+    "occurred_at": "2025-11-16T11:08",
+    "channel": "web_form",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00582",
+    "patient_ref": "MHP-P-00089",
+    "occurred_at": "2025-10-20T09:57",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00583",
+    "patient_ref": "MHP-P-00099",
+    "occurred_at": "2026-03-18T09:48",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00253"
+  },
+  {
+    "interaction_id": "MHP-I-00584",
+    "patient_ref": "MHP-P-00321",
+    "occurred_at": "2026-05-30T15:12",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "callback_scheduled",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00585",
+    "patient_ref": "MHP-P-00318",
+    "occurred_at": "2025-09-04T10:49",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "callback_scheduled",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00586",
+    "patient_ref": "MHP-P-00109",
+    "occurred_at": "2026-08-01T08:53",
+    "channel": "sms",
+    "topic": "referral_status",
+    "outcome": "resolved",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00002"
+  },
+  {
+    "interaction_id": "MHP-I-00587",
+    "patient_ref": "MHP-P-00198",
+    "occurred_at": "2026-03-08T13:07",
+    "channel": "sms",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00588",
+    "patient_ref": "MHP-P-00031",
+    "occurred_at": "2025-08-11T15:13",
+    "channel": "phone",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00589",
+    "patient_ref": "MHP-P-00201",
+    "occurred_at": "2026-04-20T17:17",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00229"
+  },
+  {
+    "interaction_id": "MHP-I-00590",
+    "patient_ref": "MHP-P-00011",
+    "occurred_at": "2026-05-02T18:55",
+    "channel": "web_form",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00131"
+  },
+  {
+    "interaction_id": "MHP-I-00591",
+    "patient_ref": "MHP-P-00049",
+    "occurred_at": "2025-10-31T16:00",
+    "channel": "email",
+    "topic": "eligibility_check",
+    "outcome": "resolved",
+    "summary": "Asked whether their plan is active and what it covers.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00592",
+    "patient_ref": "MHP-P-00258",
+    "occurred_at": "2026-05-12T18:59",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00152"
+  },
+  {
+    "interaction_id": "MHP-I-00593",
+    "patient_ref": "MHP-P-00027",
+    "occurred_at": "2026-01-18T09:40",
+    "channel": "email",
+    "topic": "billing_question",
+    "outcome": "routed_to_billing",
+    "summary": "Queried a co-pay or an amount on a statement.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00594",
+    "patient_ref": "MHP-P-00258",
+    "occurred_at": "2026-04-10T14:08",
+    "channel": "phone",
+    "topic": "referral_status",
+    "outcome": "callback_scheduled",
+    "summary": "Asked for the status of a referral.",
+    "referral_id": "MHP-R-00106"
+  },
+  {
+    "interaction_id": "MHP-I-00595",
+    "patient_ref": "MHP-P-00399",
+    "occurred_at": "2026-06-24T18:08",
+    "channel": "email",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00596",
+    "patient_ref": "MHP-P-00193",
+    "occurred_at": "2026-04-13T12:30",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00597",
+    "patient_ref": "MHP-P-00133",
+    "occurred_at": "2026-05-30T11:48",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00598",
+    "patient_ref": "MHP-P-00214",
+    "occurred_at": "2026-06-09T12:21",
+    "channel": "sms",
+    "topic": "appointment_booking",
+    "outcome": "resolved",
+    "summary": "Asked to book or move an appointment.",
+    "referral_id": null
+  },
+  {
+    "interaction_id": "MHP-I-00599",
+    "patient_ref": "MHP-P-00033",
+    "occurred_at": "2026-02-05T17:12",
+    "channel": "sms",
+    "topic": "clinical_question",
+    "outcome": "escalated_to_clinician",
+    "summary": "Asked a clinical question; not answered, routed to a clinician.",
+    "referral_id": null
+  }
+]

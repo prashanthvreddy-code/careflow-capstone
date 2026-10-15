@@ -1,3 +1,52 @@
-# TODO: Define corpus format, chunking, embedding provider/model/dimension,
-# Qdrant collection, hybrid search, reranking and evidence requirements.
-# Treat Markdown/PDF versions of the same document as duplicates or separate experiments.
+# Retrieval configuration (M3, extended in M4). Loaded and validated by capstone.settings.get_retrieval_config().
+# Paths are relative to the project root. Changing the embedding model or dimension needs an
+# index rebuild; the index records which model and dimension it was built with.
+
+corpus:
+  # The same 14 documents exist as Markdown and as PDF; only ONE copy is indexed (duplicates would
+  # double every hit). M3 used Markdown; M4 switches to PDF once its sections are proven to match
+  # the Markdown twins. Evaluation files (data/careflow/eval) are never indexed.
+  source: pdf                # markdown | pdf  (M4: PDF, proven equal to the Markdown twins)
+  markdown_dir: data/careflow/corpus/markdown
+  pdf_dir: data/careflow/corpus/pdf
+
+chunking:
+  strategy: section          # split at '##'/'###' headings or 'N.0' numbered sections
+  max_words: 300             # a longer section is split at a paragraph break; tables stay whole
+
+embedding:
+  provider: fastembed        # local ONNX model, no API calls
+  model: BAAI/bge-small-en-v1.5
+  dimension: 384
+
+index:
+  backend: qdrant_local      # embedded on-disk mode, no server
+  path: runtime/qdrant
+  collection: careflow_policies
+  distance: cosine
+  top_k: 5
+
+retrieval:                   # M4
+  mode: hybrid               # dense | hybrid (dense + BM25, RRF) | hybrid_rerank; set from measurements
+  dense_pool: 10             # candidates taken from each search before fusion
+  keyword_pool: 10
+  rrf_k: 60                  # Reciprocal Rank Fusion constant: score = sum of 1 / (rrf_k + rank)
+  rerank_pool: 10            # fused candidates the reranker re-scores; index.top_k are returned
+  # If a question uses one of a topic's words and the topic's anchor passage was not retrieved, the
+  # anchor is added as one extra source (M4 fix X1b). M8 fix R1: + charge/charged/charges/billed/
+  # percent (EV-904 "covers … 100 percent", NC-05 "charged") and a 2nd anchor, the calculation
+  # rules (4.4: consultation / imaging / lab = flat Table 4.1 co-pay; procedures = deductible then
+  # coinsurance). "price" and "fee" left out: they would route 8 list-price / no-show questions.
+  topic_routes:
+    - name: cost-share
+      anchor: copay-schedule#4.2       # Table 4.1: every plan's deductible, coinsurance, OOP max, co-pays
+      terms: &cost_terms [co-pay, copay, co-pays, copays, deductible, deductibles, coinsurance,
+              out-of-pocket, cost-share, owe, owes, pay, pays, cost, costs, charge, charged, charges,
+              billed, percent]
+    - name: cost-rules
+      anchor: copay-schedule#4.4       # which rule applies to which service type
+      terms: *cost_terms
+
+reranker:                    # M4: local cross-encoder, used only in mode hybrid_rerank
+  provider: fastembed
+  model: Xenova/ms-marco-MiniLM-L-6-v2

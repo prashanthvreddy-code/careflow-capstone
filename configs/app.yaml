@@ -1,5 +1,21 @@
 # Illustrative configuration; settings.py must implement loading and validation.
-domain: shopsense
+domain: careflow
 data_root: data
 runtime_root: runtime
 # TODO: Add explicit LLM provider/model, request limits and service endpoints.
+# M6: the data's own 'today' (interactions end 2026-08-01; open slots run 3-15 Aug 2026).
+# Used for referral deadlines, open slots and SLA breaches so every run gives the same answer.
+as_of_date: 2026-08-01
+# M7: reliability limits (phase 2 "balanced"). Omit a key to keep the code default.
+# M8 #6: API limits (per API key; /health is never limited).
+api:
+  rate_limit_per_minute: 60
+  max_body_bytes: 16384
+
+reliability:
+  mcp_timeout_s: 5
+  mcp_retry: {max_attempts: 3, base_delay_s: 0.5, max_delay_s: 2.0}
+  mcp_breaker: {failure_threshold: 3, reset_timeout_s: 30}
+  llm_timeout_s: 30
+  llm_retry: {max_attempts: 2, base_delay_s: 1.0, max_delay_s: 2.0}
+  llm_breaker: {failure_threshold: 3, reset_timeout_s: 60}

@@ -1,0 +1,76 @@
+{
+  "domain": "CareFlow -- AI Care Coordination Assistant",
+  "toolkit_version": "1.0.4",
+  "complete": true,
+  "generated_at": "2026-10-04T05:12:08.502768+00:00",
+  "seed": 42,
+  "generator": {
+    "provider": "gemini",
+    "model": "gemini-flash-lite-latest"
+  },
+  "assets": {
+    "mock_api": {
+      "tables": {
+        "plans": 4,
+        "patients": 400,
+        "appointments": 900,
+        "referrals": 300,
+        "specialties": 8,
+        "urgency_bands": 4,
+        "sites": 14,
+        "providers": 60,
+        "appointment_slots": 480,
+        "procedures": 24,
+        "preauth_rules": 96,
+        "plan_copays": 16,
+        "referral_details": 300,
+        "patient_interactions": 600
+      },
+      "dir": "mock_api/"
+    },
+    "corpus": {
+      "count": 14,
+      "index": "corpus/index.json"
+    },
+    "intake": {
+      "count": 200,
+      "path": "intake/records.jsonl",
+      "llm_calls": 11
+    },
+    "eval": {
+      "count": 20,
+      "by_category": {
+        "guardrail": 2,
+        "injection": 1,
+        "factual": 10,
+        "multi_hop": 5,
+        "unanswerable": 2
+      },
+      "path": "eval/golden_set.json",
+      "grounded_in_corpus": true
+    }
+  },
+  "public_sources_referenced": [
+    {
+      "name": "Synthea (MITRE)",
+      "url": "https://synthea.mitre.org/downloads",
+      "use": "FHIR resource shapes and patient-history distributions",
+      "licence": "Free of cost, privacy and security restrictions"
+    },
+    {
+      "name": "IRDAI Master Circular on Health Insurance Business",
+      "url": "https://irdai.gov.in",
+      "use": "Disclosure fields and claim-process vocabulary (India context)",
+      "licence": "Government of India publication"
+    },
+    {
+      "name": "CMS Summary of Benefits and Coverage",
+      "url": "https://www.cms.gov",
+      "use": "Benefit-table layout",
+      "licence": "US Government work, public domain"
+    }
+  ],
+  "synthetic": true,
+  "contains_real_personal_data": false,
+  "notice": "All records in this corpus are synthetic. Any resemblance to a real person, company, contract, or patient is coincidental. Public datasets listed under public_sources_referenced were used for schema and distribution grounding only; consult each source's own licence before redistributing anything derived from it."
+}

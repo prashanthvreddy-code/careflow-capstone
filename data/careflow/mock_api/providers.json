@@ -1,0 +1,542 @@
+[
+  {
+    "provider_id": "MHP-PR-001",
+    "name": "Dr. Donna Mejia",
+    "specialty": "Cardiology",
+    "site_id": "MHP-SITE-03",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 26
+  },
+  {
+    "provider_id": "MHP-PR-002",
+    "name": "Dr. Tracie Wyatt",
+    "specialty": "Orthopaedics",
+    "site_id": "MHP-SITE-05",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 18
+  },
+  {
+    "provider_id": "MHP-PR-003",
+    "name": "Dr. Michelle James",
+    "specialty": "Dermatology",
+    "site_id": "MHP-SITE-02",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 17
+  },
+  {
+    "provider_id": "MHP-PR-004",
+    "name": "Dr. Shawn Flowers",
+    "specialty": "Endocrinology",
+    "site_id": "MHP-SITE-10",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 7
+  },
+  {
+    "provider_id": "MHP-PR-005",
+    "name": "Dr. Francisco Kelly",
+    "specialty": "Gastroenterology",
+    "site_id": "MHP-SITE-11",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 21
+  },
+  {
+    "provider_id": "MHP-PR-006",
+    "name": "Dr. Elizabeth Miles",
+    "specialty": "Pulmonology",
+    "site_id": "MHP-SITE-08",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 30
+  },
+  {
+    "provider_id": "MHP-PR-007",
+    "name": "Dr. Frances Jones",
+    "specialty": "Neurology",
+    "site_id": "MHP-SITE-08",
+    "accepts_new_patients": false,
+    "offers_telehealth": false,
+    "years_in_practice": 23
+  },
+  {
+    "provider_id": "MHP-PR-008",
+    "name": "Dr. Cynthia Ferguson",
+    "specialty": "ENT",
+    "site_id": "MHP-SITE-12",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 15
+  },
+  {
+    "provider_id": "MHP-PR-009",
+    "name": "Dr. John Ford",
+    "specialty": "Cardiology",
+    "site_id": "MHP-SITE-10",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 10
+  },
+  {
+    "provider_id": "MHP-PR-010",
+    "name": "Dr. Joseph Schaefer",
+    "specialty": "Orthopaedics",
+    "site_id": "MHP-SITE-09",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 22
+  },
+  {
+    "provider_id": "MHP-PR-011",
+    "name": "Dr. Hailey Robinson",
+    "specialty": "Dermatology",
+    "site_id": "MHP-SITE-11",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 26
+  },
+  {
+    "provider_id": "MHP-PR-012",
+    "name": "Dr. Mark Tate",
+    "specialty": "Endocrinology",
+    "site_id": "MHP-SITE-06",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 5
+  },
+  {
+    "provider_id": "MHP-PR-013",
+    "name": "Dr. Brian Underwood",
+    "specialty": "Gastroenterology",
+    "site_id": "MHP-SITE-07",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 4
+  },
+  {
+    "provider_id": "MHP-PR-014",
+    "name": "Dr. Linda Morales",
+    "specialty": "Pulmonology",
+    "site_id": "MHP-SITE-08",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 13
+  },
+  {
+    "provider_id": "MHP-PR-015",
+    "name": "Dr. Carl Gentry",
+    "specialty": "Neurology",
+    "site_id": "MHP-SITE-05",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 22
+  },
+  {
+    "provider_id": "MHP-PR-016",
+    "name": "Dr. Ashley Robbins",
+    "specialty": "ENT",
+    "site_id": "MHP-SITE-01",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 14
+  },
+  {
+    "provider_id": "MHP-PR-017",
+    "name": "Dr. Jason Porter",
+    "specialty": "Cardiology",
+    "site_id": "MHP-SITE-06",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 8
+  },
+  {
+    "provider_id": "MHP-PR-018",
+    "name": "Dr. Nicole Day",
+    "specialty": "Orthopaedics",
+    "site_id": "MHP-SITE-08",
+    "accepts_new_patients": false,
+    "offers_telehealth": true,
+    "years_in_practice": 5
+  },
+  {
+    "provider_id": "MHP-PR-019",
+    "name": "Dr. Douglas Taylor",
+    "specialty": "Dermatology",
+    "site_id": "MHP-SITE-04",
+    "accepts_new_patients": false,
+    "offers_telehealth": false,
+    "years_in_practice": 5
+  },
+  {
+    "provider_id": "MHP-PR-020",
+    "name": "Dr. Julie Ryan",
+    "specialty": "Endocrinology",
+    "site_id": "MHP-SITE-02",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 22
+  },
+  {
+    "provider_id": "MHP-PR-021",
+    "name": "Dr. Julie Patterson",
+    "specialty": "Gastroenterology",
+    "site_id": "MHP-SITE-10",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 19
+  },
+  {
+    "provider_id": "MHP-PR-022",
+    "name": "Dr. Brandy Cox",
+    "specialty": "Pulmonology",
+    "site_id": "MHP-SITE-07",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 21
+  },
+  {
+    "provider_id": "MHP-PR-023",
+    "name": "Dr. Wendy Taylor",
+    "specialty": "Neurology",
+    "site_id": "MHP-SITE-11",
+    "accepts_new_patients": false,
+    "offers_telehealth": false,
+    "years_in_practice": 18
+  },
+  {
+    "provider_id": "MHP-PR-024",
+    "name": "Dr. Trevor Campos",
+    "specialty": "ENT",
+    "site_id": "MHP-SITE-05",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 17
+  },
+  {
+    "provider_id": "MHP-PR-025",
+    "name": "Dr. Michelle Hernandez",
+    "specialty": "Cardiology",
+    "site_id": "MHP-SITE-14",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 7
+  },
+  {
+    "provider_id": "MHP-PR-026",
+    "name": "Dr. Ernest Becker",
+    "specialty": "Orthopaedics",
+    "site_id": "MHP-SITE-03",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 21
+  },
+  {
+    "provider_id": "MHP-PR-027",
+    "name": "Dr. Candace Cruz",
+    "specialty": "Dermatology",
+    "site_id": "MHP-SITE-02",
+    "accepts_new_patients": false,
+    "offers_telehealth": false,
+    "years_in_practice": 26
+  },
+  {
+    "provider_id": "MHP-PR-028",
+    "name": "Dr. Caitlin Mcdonald",
+    "specialty": "Endocrinology",
+    "site_id": "MHP-SITE-14",
+    "accepts_new_patients": false,
+    "offers_telehealth": true,
+    "years_in_practice": 9
+  },
+  {
+    "provider_id": "MHP-PR-029",
+    "name": "Dr. John Tran",
+    "specialty": "Gastroenterology",
+    "site_id": "MHP-SITE-02",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 25
+  },
+  {
+    "provider_id": "MHP-PR-030",
+    "name": "Dr. Sherri Frazier",
+    "specialty": "Pulmonology",
+    "site_id": "MHP-SITE-09",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 25
+  },
+  {
+    "provider_id": "MHP-PR-031",
+    "name": "Dr. Danny Dyer",
+    "specialty": "Neurology",
+    "site_id": "MHP-SITE-10",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 13
+  },
+  {
+    "provider_id": "MHP-PR-032",
+    "name": "Dr. Karen Mack",
+    "specialty": "ENT",
+    "site_id": "MHP-SITE-11",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 12
+  },
+  {
+    "provider_id": "MHP-PR-033",
+    "name": "Dr. Matthew Carter",
+    "specialty": "Cardiology",
+    "site_id": "MHP-SITE-01",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 7
+  },
+  {
+    "provider_id": "MHP-PR-034",
+    "name": "Dr. Eric Smith",
+    "specialty": "Orthopaedics",
+    "site_id": "MHP-SITE-12",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 19
+  },
+  {
+    "provider_id": "MHP-PR-035",
+    "name": "Dr. Jennifer Cortez",
+    "specialty": "Dermatology",
+    "site_id": "MHP-SITE-14",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 14
+  },
+  {
+    "provider_id": "MHP-PR-036",
+    "name": "Dr. Teresa Gill",
+    "specialty": "Endocrinology",
+    "site_id": "MHP-SITE-10",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 5
+  },
+  {
+    "provider_id": "MHP-PR-037",
+    "name": "Dr. William Rodriguez",
+    "specialty": "Gastroenterology",
+    "site_id": "MHP-SITE-13",
+    "accepts_new_patients": false,
+    "offers_telehealth": false,
+    "years_in_practice": 30
+  },
+  {
+    "provider_id": "MHP-PR-038",
+    "name": "Dr. Colleen Skinner",
+    "specialty": "Pulmonology",
+    "site_id": "MHP-SITE-14",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 24
+  },
+  {
+    "provider_id": "MHP-PR-039",
+    "name": "Dr. William Gonzalez",
+    "specialty": "Neurology",
+    "site_id": "MHP-SITE-03",
+    "accepts_new_patients": false,
+    "offers_telehealth": false,
+    "years_in_practice": 12
+  },
+  {
+    "provider_id": "MHP-PR-040",
+    "name": "Dr. Nathaniel Martin",
+    "specialty": "ENT",
+    "site_id": "MHP-SITE-13",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 22
+  },
+  {
+    "provider_id": "MHP-PR-041",
+    "name": "Dr. Stephanie Nielsen",
+    "specialty": "Cardiology",
+    "site_id": "MHP-SITE-13",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 30
+  },
+  {
+    "provider_id": "MHP-PR-042",
+    "name": "Dr. Samantha George",
+    "specialty": "Orthopaedics",
+    "site_id": "MHP-SITE-08",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 18
+  },
+  {
+    "provider_id": "MHP-PR-043",
+    "name": "Dr. Tracy Rodriguez",
+    "specialty": "Dermatology",
+    "site_id": "MHP-SITE-08",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 26
+  },
+  {
+    "provider_id": "MHP-PR-044",
+    "name": "Dr. Michael Galloway",
+    "specialty": "Endocrinology",
+    "site_id": "MHP-SITE-07",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 21
+  },
+  {
+    "provider_id": "MHP-PR-045",
+    "name": "Dr. Lindsay Allen",
+    "specialty": "Gastroenterology",
+    "site_id": "MHP-SITE-04",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 13
+  },
+  {
+    "provider_id": "MHP-PR-046",
+    "name": "Dr. John Bradley",
+    "specialty": "Pulmonology",
+    "site_id": "MHP-SITE-06",
+    "accepts_new_patients": false,
+    "offers_telehealth": false,
+    "years_in_practice": 13
+  },
+  {
+    "provider_id": "MHP-PR-047",
+    "name": "Dr. Christian Dennis",
+    "specialty": "Neurology",
+    "site_id": "MHP-SITE-04",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 27
+  },
+  {
+    "provider_id": "MHP-PR-048",
+    "name": "Dr. Lisa Spence",
+    "specialty": "ENT",
+    "site_id": "MHP-SITE-13",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 10
+  },
+  {
+    "provider_id": "MHP-PR-049",
+    "name": "Dr. Amanda Martinez",
+    "specialty": "Cardiology",
+    "site_id": "MHP-SITE-06",
+    "accepts_new_patients": false,
+    "offers_telehealth": true,
+    "years_in_practice": 17
+  },
+  {
+    "provider_id": "MHP-PR-050",
+    "name": "Dr. Donna Arroyo",
+    "specialty": "Orthopaedics",
+    "site_id": "MHP-SITE-11",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 3
+  },
+  {
+    "provider_id": "MHP-PR-051",
+    "name": "Dr. Frederick Rose",
+    "specialty": "Dermatology",
+    "site_id": "MHP-SITE-04",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 5
+  },
+  {
+    "provider_id": "MHP-PR-052",
+    "name": "Dr. Catherine Brandt",
+    "specialty": "Endocrinology",
+    "site_id": "MHP-SITE-02",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 27
+  },
+  {
+    "provider_id": "MHP-PR-053",
+    "name": "Dr. Sarah Campos",
+    "specialty": "Gastroenterology",
+    "site_id": "MHP-SITE-04",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 17
+  },
+  {
+    "provider_id": "MHP-PR-054",
+    "name": "Dr. Hannah Marquez",
+    "specialty": "Pulmonology",
+    "site_id": "MHP-SITE-12",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 9
+  },
+  {
+    "provider_id": "MHP-PR-055",
+    "name": "Dr. Raymond Powers",
+    "specialty": "Neurology",
+    "site_id": "MHP-SITE-14",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 13
+  },
+  {
+    "provider_id": "MHP-PR-056",
+    "name": "Dr. Nathaniel Lam",
+    "specialty": "ENT",
+    "site_id": "MHP-SITE-13",
+    "accepts_new_patients": false,
+    "offers_telehealth": true,
+    "years_in_practice": 4
+  },
+  {
+    "provider_id": "MHP-PR-057",
+    "name": "Dr. Shannon Wright",
+    "specialty": "Cardiology",
+    "site_id": "MHP-SITE-08",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 20
+  },
+  {
+    "provider_id": "MHP-PR-058",
+    "name": "Dr. Caleb Smith",
+    "specialty": "Orthopaedics",
+    "site_id": "MHP-SITE-14",
+    "accepts_new_patients": true,
+    "offers_telehealth": true,
+    "years_in_practice": 20
+  },
+  {
+    "provider_id": "MHP-PR-059",
+    "name": "Dr. Angela Chapman",
+    "specialty": "Dermatology",
+    "site_id": "MHP-SITE-02",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 16
+  },
+  {
+    "provider_id": "MHP-PR-060",
+    "name": "Dr. Adrian Zimmerman",
+    "specialty": "Endocrinology",
+    "site_id": "MHP-SITE-02",
+    "accepts_new_patients": true,
+    "offers_telehealth": false,
+    "years_in_practice": 7
+  }
+]

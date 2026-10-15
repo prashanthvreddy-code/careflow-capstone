@@ -1,0 +1,218 @@
+[
+  {
+    "procedure_code": "CARD-CONS",
+    "procedure_name": "Cardiology Consultation",
+    "specialty": "Cardiology",
+    "category": "consultation",
+    "list_price_usd": 220,
+    "duration_minutes": 30,
+    "cost_share_basis": "copay"
+  },
+  {
+    "procedure_code": "CARD-ECHO",
+    "procedure_name": "Echocardiogram",
+    "specialty": "Cardiology",
+    "category": "imaging",
+    "list_price_usd": 950,
+    "duration_minutes": 45,
+    "cost_share_basis": "copay"
+  },
+  {
+    "procedure_code": "CARD-CATH",
+    "procedure_name": "Cardiac Catheterisation",
+    "specialty": "Cardiology",
+    "category": "procedure",
+    "list_price_usd": 7800,
+    "duration_minutes": 90,
+    "cost_share_basis": "deductible_then_coinsurance"
+  },
+  {
+    "procedure_code": "ORTH-CONS",
+    "procedure_name": "Orthopaedics Consultation",
+    "specialty": "Orthopaedics",
+    "category": "consultation",
+    "list_price_usd": 200,
+    "duration_minutes": 30,
+    "cost_share_basis": "copay"
+  },
+  {
+    "procedure_code": "ORTH-MRI",
+    "procedure_name": "MRI Knee",
+    "specialty": "Orthopaedics",
+    "category": "imaging",
+    "list_price_usd": 1400,
+    "duration_minutes": 45,
+    "cost_share_basis": "copay"
+  },
+  {
+    "procedure_code": "ORTH-ARTH",
+    "procedure_name": "Knee Arthroscopy",
+    "specialty": "Orthopaedics",
+    "category": "procedure",
+    "list_price_usd": 6200,
+    "duration_minutes": 75,
+    "cost_share_basis": "deductible_then_coinsurance"
+  },
+  {
+    "procedure_code": "DERM-CONS",
+    "procedure_name": "Dermatology Consultation",
+    "specialty": "Dermatology",
+    "category": "consultation",
+    "list_price_usd": 160,
+    "duration_minutes": 20,
+    "cost_share_basis": "copay"
+  },
+  {
+    "procedure_code": "DERM-BIOP",
+    "procedure_name": "Skin Biopsy Pathology",
+    "specialty": "Dermatology",
+    "category": "lab",
+    "list_price_usd": 380,
+    "duration_minutes": 20,
+    "cost_share_basis": "copay"
+  },
+  {
+    "procedure_code": "DERM-EXCI",
+    "procedure_name": "Lesion Excision",
+    "specialty": "Dermatology",
+    "category": "procedure",
+    "list_price_usd": 1150,
+    "duration_minutes": 45,
+    "cost_share_basis": "deductible_then_coinsurance"
+  },
+  {
+    "procedure_code": "ENDO-CONS",
+    "procedure_name": "Endocrinology Consultation",
+    "specialty": "Endocrinology",
+    "category": "consultation",
+    "list_price_usd": 190,
+    "duration_minutes": 30,
+    "cost_share_basis": "copay"
+  },
+  {
+    "procedure_code": "ENDO-PANL",
+    "procedure_name": "Thyroid Function Panel",
+    "specialty": "Endocrinology",
+    "category": "lab",
+    "list_price_usd": 140,
+    "duration_minutes": 15,
+    "cost_share_basis": "copay"
+  },
+  {
+    "procedure_code": "ENDO-FNAB",
+    "procedure_name": "Thyroid Fine-Needle Aspiration",
+    "specialty": "Endocrinology",
+    "category": "procedure",
+    "list_price_usd": 900,
+    "duration_minutes": 30,
+    "cost_share_basis": "deductible_then_coinsurance"
+  },
+  {
+    "procedure_code": "GAST-CONS",
+    "procedure_name": "Gastroenterology Consultation",
+    "specialty": "Gastroenterology",
+    "category": "consultation",
+    "list_price_usd": 210,
+    "duration_minutes": 30,
+    "cost_share_basis": "copay"
+  },
+  {
+    "procedure_code": "GAST-USND",
+    "procedure_name": "Abdominal Ultrasound",
+    "specialty": "Gastroenterology",
+    "category": "imaging",
+    "list_price_usd": 520,
+    "duration_minutes": 30,
+    "cost_share_basis": "copay"
+  },
+  {
+    "procedure_code": "GAST-COLO",
+    "procedure_name": "Colonoscopy",
+    "specialty": "Gastroenterology",
+    "category": "procedure",
+    "list_price_usd": 2600,
+    "duration_minutes": 60,
+    "cost_share_basis": "deductible_then_coinsurance"
+  },
+  {
+    "procedure_code": "PULM-CONS",
+    "procedure_name": "Pulmonology Consultation",
+    "specialty": "Pulmonology",
+    "category": "consultation",
+    "list_price_usd": 200,
+    "duration_minutes": 30,
+    "cost_share_basis": "copay"
+  },
+  {
+    "procedure_code": "PULM-PFT",
+    "procedure_name": "Pulmonary Function Test",
+    "specialty": "Pulmonology",
+    "category": "lab",
+    "list_price_usd": 310,
+    "duration_minutes": 45,
+    "cost_share_basis": "copay"
+  },
+  {
+    "procedure_code": "PULM-BRON",
+    "procedure_name": "Bronchoscopy",
+    "specialty": "Pulmonology",
+    "category": "procedure",
+    "list_price_usd": 3400,
+    "duration_minutes": 60,
+    "cost_share_basis": "deductible_then_coinsurance"
+  },
+  {
+    "procedure_code": "NEUR-CONS",
+    "procedure_name": "Neurology Consultation",
+    "specialty": "Neurology",
+    "category": "consultation",
+    "list_price_usd": 230,
+    "duration_minutes": 45,
+    "cost_share_basis": "copay"
+  },
+  {
+    "procedure_code": "NEUR-MRI",
+    "procedure_name": "MRI Brain",
+    "specialty": "Neurology",
+    "category": "imaging",
+    "list_price_usd": 1650,
+    "duration_minutes": 45,
+    "cost_share_basis": "copay"
+  },
+  {
+    "procedure_code": "NEUR-NCS",
+    "procedure_name": "Nerve Conduction Study",
+    "specialty": "Neurology",
+    "category": "procedure",
+    "list_price_usd": 780,
+    "duration_minutes": 60,
+    "cost_share_basis": "deductible_then_coinsurance"
+  },
+  {
+    "procedure_code": "ENT-CONS",
+    "procedure_name": "ENT Consultation",
+    "specialty": "ENT",
+    "category": "consultation",
+    "list_price_usd": 170,
+    "duration_minutes": 20,
+    "cost_share_basis": "copay"
+  },
+  {
+    "procedure_code": "ENT-AUDI",
+    "procedure_name": "Audiometry",
+    "specialty": "ENT",
+    "category": "lab",
+    "list_price_usd": 150,
+    "duration_minutes": 30,
+    "cost_share_basis": "copay"
+  },
+  {
+    "procedure_code": "ENT-SEPT",
+    "procedure_name": "Septoplasty",
+    "specialty": "ENT",
+    "category": "procedure",
+    "list_price_usd": 5400,
+    "duration_minutes": 90,
+    "cost_share_basis": "deductible_then_coinsurance"
+  }
+]

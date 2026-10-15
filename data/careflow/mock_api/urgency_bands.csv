@@ -1,0 +1,5 @@
+urgency,first_response_hours,referral_sla_business_days
+Routine,24,5
+Priority,4,2
+Urgent,1,1
+Emergent,0,

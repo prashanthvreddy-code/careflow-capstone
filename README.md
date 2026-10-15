@@ -2,6 +2,9 @@
 
 **Applied AI Professional Certification Program · IIT Hyderabad**
 
+> **CareFlow submission:** this copy implements the CareFlow problem statement (M1–M8).
+> Start with [`MILESTONES.md`](MILESTONES.md): setup, one demo script per milestone, tests and results.
+
 An empty Python source-project scaffold for CareFlow, LexOps, WealthPilot,
 ShopSense and PlantGuard. Use one copy per team and implement the selected
 problem statement progressively across milestones M1–M8.

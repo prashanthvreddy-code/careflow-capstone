@@ -1,0 +1,38 @@
+[
+  {
+    "plan_code": "MERIDIAN-GOLD",
+    "plan_name": "Meridian Gold",
+    "annual_deductible_usd": 500,
+    "coinsurance_rate": 0.2,
+    "out_of_pocket_max_usd": 25000,
+    "specialist_copay_usd": 25,
+    "telehealth_copay_usd": 10
+  },
+  {
+    "plan_code": "MERIDIAN-SILVER",
+    "plan_name": "Meridian Silver",
+    "annual_deductible_usd": 1500,
+    "coinsurance_rate": 0.3,
+    "out_of_pocket_max_usd": 15000,
+    "specialist_copay_usd": 45,
+    "telehealth_copay_usd": 18
+  },
+  {
+    "plan_code": "MERIDIAN-BRONZE",
+    "plan_name": "Meridian Bronze",
+    "annual_deductible_usd": 3000,
+    "coinsurance_rate": 0.4,
+    "out_of_pocket_max_usd": 8000,
+    "specialist_copay_usd": 45,
+    "telehealth_copay_usd": 18
+  },
+  {
+    "plan_code": "CIVIC-BASE",
+    "plan_name": "Civic Base",
+    "annual_deductible_usd": 2000,
+    "coinsurance_rate": 0.35,
+    "out_of_pocket_max_usd": 10000,
+    "specialist_copay_usd": 45,
+    "telehealth_copay_usd": 18
+  }
+]

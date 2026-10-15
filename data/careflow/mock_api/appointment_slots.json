@@ -1,0 +1,4802 @@
+[
+  {
+    "slot_id": "MHP-SL-00000",
+    "provider_id": "MHP-PR-001",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-04T12:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00001",
+    "provider_id": "MHP-PR-001",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-06T10:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00002",
+    "provider_id": "MHP-PR-001",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-08T13:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00003",
+    "provider_id": "MHP-PR-001",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-10T08:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00004",
+    "provider_id": "MHP-PR-001",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-11T18:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00005",
+    "provider_id": "MHP-PR-001",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-12T10:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00006",
+    "provider_id": "MHP-PR-001",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-14T12:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00007",
+    "provider_id": "MHP-PR-001",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-14T16:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00008",
+    "provider_id": "MHP-PR-002",
+    "site_id": "MHP-SITE-05",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-04T11:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00009",
+    "provider_id": "MHP-PR-002",
+    "site_id": "MHP-SITE-05",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-04T15:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00010",
+    "provider_id": "MHP-PR-002",
+    "site_id": "MHP-SITE-05",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-04T15:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00011",
+    "provider_id": "MHP-PR-002",
+    "site_id": "MHP-SITE-05",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-05T10:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00012",
+    "provider_id": "MHP-PR-002",
+    "site_id": "MHP-SITE-05",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-06T08:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00013",
+    "provider_id": "MHP-PR-002",
+    "site_id": "MHP-SITE-05",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-08T14:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00014",
+    "provider_id": "MHP-PR-002",
+    "site_id": "MHP-SITE-05",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-08T17:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00015",
+    "provider_id": "MHP-PR-002",
+    "site_id": "MHP-SITE-05",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-14T08:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00016",
+    "provider_id": "MHP-PR-003",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-03T12:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00017",
+    "provider_id": "MHP-PR-003",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-05T16:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00018",
+    "provider_id": "MHP-PR-003",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-06T16:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00019",
+    "provider_id": "MHP-PR-003",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-07T13:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00020",
+    "provider_id": "MHP-PR-003",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-11T11:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00021",
+    "provider_id": "MHP-PR-003",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-12T10:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00022",
+    "provider_id": "MHP-PR-003",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-13T12:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00023",
+    "provider_id": "MHP-PR-003",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-15T13:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00024",
+    "provider_id": "MHP-PR-004",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-04T09:00",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00025",
+    "provider_id": "MHP-PR-004",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-04T15:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00026",
+    "provider_id": "MHP-PR-004",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-07T08:00",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00027",
+    "provider_id": "MHP-PR-004",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-07T12:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00028",
+    "provider_id": "MHP-PR-004",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-12T11:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00029",
+    "provider_id": "MHP-PR-004",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-12T14:00",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00030",
+    "provider_id": "MHP-PR-004",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-13T10:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00031",
+    "provider_id": "MHP-PR-004",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-13T15:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00032",
+    "provider_id": "MHP-PR-005",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-03T16:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00033",
+    "provider_id": "MHP-PR-005",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-05T09:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00034",
+    "provider_id": "MHP-PR-005",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-07T09:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00035",
+    "provider_id": "MHP-PR-005",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-08T15:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00036",
+    "provider_id": "MHP-PR-005",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-10T14:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00037",
+    "provider_id": "MHP-PR-005",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-10T16:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00038",
+    "provider_id": "MHP-PR-005",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-13T14:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00039",
+    "provider_id": "MHP-PR-005",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-15T13:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00040",
+    "provider_id": "MHP-PR-006",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-03T15:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00041",
+    "provider_id": "MHP-PR-006",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-04T08:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00042",
+    "provider_id": "MHP-PR-006",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-04T17:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00043",
+    "provider_id": "MHP-PR-006",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-06T11:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00044",
+    "provider_id": "MHP-PR-006",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-06T17:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00045",
+    "provider_id": "MHP-PR-006",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-08T15:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00046",
+    "provider_id": "MHP-PR-006",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-11T13:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00047",
+    "provider_id": "MHP-PR-006",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-12T11:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00048",
+    "provider_id": "MHP-PR-007",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-04T10:30",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00049",
+    "provider_id": "MHP-PR-007",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-05T14:15",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00050",
+    "provider_id": "MHP-PR-007",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-07T15:45",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00051",
+    "provider_id": "MHP-PR-007",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-08T09:00",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00052",
+    "provider_id": "MHP-PR-007",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-08T16:30",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00053",
+    "provider_id": "MHP-PR-007",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-10T15:00",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00054",
+    "provider_id": "MHP-PR-007",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-11T17:15",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00055",
+    "provider_id": "MHP-PR-007",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-15T13:30",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00056",
+    "provider_id": "MHP-PR-008",
+    "site_id": "MHP-SITE-12",
+    "specialty": "ENT",
+    "starts_at": "2026-08-04T13:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00057",
+    "provider_id": "MHP-PR-008",
+    "site_id": "MHP-SITE-12",
+    "specialty": "ENT",
+    "starts_at": "2026-08-06T15:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00058",
+    "provider_id": "MHP-PR-008",
+    "site_id": "MHP-SITE-12",
+    "specialty": "ENT",
+    "starts_at": "2026-08-08T12:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00059",
+    "provider_id": "MHP-PR-008",
+    "site_id": "MHP-SITE-12",
+    "specialty": "ENT",
+    "starts_at": "2026-08-10T10:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00060",
+    "provider_id": "MHP-PR-008",
+    "site_id": "MHP-SITE-12",
+    "specialty": "ENT",
+    "starts_at": "2026-08-12T14:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00061",
+    "provider_id": "MHP-PR-008",
+    "site_id": "MHP-SITE-12",
+    "specialty": "ENT",
+    "starts_at": "2026-08-14T14:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00062",
+    "provider_id": "MHP-PR-008",
+    "site_id": "MHP-SITE-12",
+    "specialty": "ENT",
+    "starts_at": "2026-08-14T15:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00063",
+    "provider_id": "MHP-PR-008",
+    "site_id": "MHP-SITE-12",
+    "specialty": "ENT",
+    "starts_at": "2026-08-15T17:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00064",
+    "provider_id": "MHP-PR-009",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-03T07:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00065",
+    "provider_id": "MHP-PR-009",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-04T14:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00066",
+    "provider_id": "MHP-PR-009",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-07T15:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00067",
+    "provider_id": "MHP-PR-009",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-08T15:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00068",
+    "provider_id": "MHP-PR-009",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-10T09:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00069",
+    "provider_id": "MHP-PR-009",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-11T11:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00070",
+    "provider_id": "MHP-PR-009",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-12T09:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00071",
+    "provider_id": "MHP-PR-009",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-12T14:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00072",
+    "provider_id": "MHP-PR-010",
+    "site_id": "MHP-SITE-09",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-04T16:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00073",
+    "provider_id": "MHP-PR-010",
+    "site_id": "MHP-SITE-09",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-05T09:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00074",
+    "provider_id": "MHP-PR-010",
+    "site_id": "MHP-SITE-09",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-05T16:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00075",
+    "provider_id": "MHP-PR-010",
+    "site_id": "MHP-SITE-09",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-06T17:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00076",
+    "provider_id": "MHP-PR-010",
+    "site_id": "MHP-SITE-09",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-11T16:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00077",
+    "provider_id": "MHP-PR-010",
+    "site_id": "MHP-SITE-09",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-13T11:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00078",
+    "provider_id": "MHP-PR-010",
+    "site_id": "MHP-SITE-09",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-13T14:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00079",
+    "provider_id": "MHP-PR-010",
+    "site_id": "MHP-SITE-09",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-14T18:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00080",
+    "provider_id": "MHP-PR-011",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-04T09:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00081",
+    "provider_id": "MHP-PR-011",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-04T10:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00082",
+    "provider_id": "MHP-PR-011",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-04T16:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00083",
+    "provider_id": "MHP-PR-011",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-07T13:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00084",
+    "provider_id": "MHP-PR-011",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-08T10:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00085",
+    "provider_id": "MHP-PR-011",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-11T08:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00086",
+    "provider_id": "MHP-PR-011",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-11T08:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00087",
+    "provider_id": "MHP-PR-011",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-12T08:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00088",
+    "provider_id": "MHP-PR-012",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-03T12:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00089",
+    "provider_id": "MHP-PR-012",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-04T10:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00090",
+    "provider_id": "MHP-PR-012",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-08T11:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00091",
+    "provider_id": "MHP-PR-012",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-08T14:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00092",
+    "provider_id": "MHP-PR-012",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-12T11:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00093",
+    "provider_id": "MHP-PR-012",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-12T16:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00094",
+    "provider_id": "MHP-PR-012",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-12T16:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00095",
+    "provider_id": "MHP-PR-012",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-14T16:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00096",
+    "provider_id": "MHP-PR-013",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-03T08:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00097",
+    "provider_id": "MHP-PR-013",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-05T16:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00098",
+    "provider_id": "MHP-PR-013",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-06T09:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00099",
+    "provider_id": "MHP-PR-013",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-10T14:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00100",
+    "provider_id": "MHP-PR-013",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-10T14:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00101",
+    "provider_id": "MHP-PR-013",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-12T13:00",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00102",
+    "provider_id": "MHP-PR-013",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-14T14:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00103",
+    "provider_id": "MHP-PR-013",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-14T15:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00104",
+    "provider_id": "MHP-PR-014",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-03T11:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00105",
+    "provider_id": "MHP-PR-014",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-05T11:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00106",
+    "provider_id": "MHP-PR-014",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-07T12:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00107",
+    "provider_id": "MHP-PR-014",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-07T14:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00108",
+    "provider_id": "MHP-PR-014",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-10T13:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00109",
+    "provider_id": "MHP-PR-014",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-11T08:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00110",
+    "provider_id": "MHP-PR-014",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-15T09:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00111",
+    "provider_id": "MHP-PR-014",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-15T10:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00112",
+    "provider_id": "MHP-PR-015",
+    "site_id": "MHP-SITE-05",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-04T14:45",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00113",
+    "provider_id": "MHP-PR-015",
+    "site_id": "MHP-SITE-05",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-07T13:15",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00114",
+    "provider_id": "MHP-PR-015",
+    "site_id": "MHP-SITE-05",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-11T11:45",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00115",
+    "provider_id": "MHP-PR-015",
+    "site_id": "MHP-SITE-05",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-13T14:45",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00116",
+    "provider_id": "MHP-PR-015",
+    "site_id": "MHP-SITE-05",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-13T15:30",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00117",
+    "provider_id": "MHP-PR-015",
+    "site_id": "MHP-SITE-05",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-14T08:00",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00118",
+    "provider_id": "MHP-PR-015",
+    "site_id": "MHP-SITE-05",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-15T08:45",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00119",
+    "provider_id": "MHP-PR-015",
+    "site_id": "MHP-SITE-05",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-15T11:00",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00120",
+    "provider_id": "MHP-PR-016",
+    "site_id": "MHP-SITE-01",
+    "specialty": "ENT",
+    "starts_at": "2026-08-04T10:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00121",
+    "provider_id": "MHP-PR-016",
+    "site_id": "MHP-SITE-01",
+    "specialty": "ENT",
+    "starts_at": "2026-08-05T11:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00122",
+    "provider_id": "MHP-PR-016",
+    "site_id": "MHP-SITE-01",
+    "specialty": "ENT",
+    "starts_at": "2026-08-08T10:00",
+    "duration_minutes": 20,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00123",
+    "provider_id": "MHP-PR-016",
+    "site_id": "MHP-SITE-01",
+    "specialty": "ENT",
+    "starts_at": "2026-08-08T17:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00124",
+    "provider_id": "MHP-PR-016",
+    "site_id": "MHP-SITE-01",
+    "specialty": "ENT",
+    "starts_at": "2026-08-11T14:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00125",
+    "provider_id": "MHP-PR-016",
+    "site_id": "MHP-SITE-01",
+    "specialty": "ENT",
+    "starts_at": "2026-08-11T17:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00126",
+    "provider_id": "MHP-PR-016",
+    "site_id": "MHP-SITE-01",
+    "specialty": "ENT",
+    "starts_at": "2026-08-13T11:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00127",
+    "provider_id": "MHP-PR-016",
+    "site_id": "MHP-SITE-01",
+    "specialty": "ENT",
+    "starts_at": "2026-08-14T09:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00128",
+    "provider_id": "MHP-PR-017",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-05T09:00",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00129",
+    "provider_id": "MHP-PR-017",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-05T16:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00130",
+    "provider_id": "MHP-PR-017",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-06T15:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00131",
+    "provider_id": "MHP-PR-017",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-10T16:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00132",
+    "provider_id": "MHP-PR-017",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-11T12:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00133",
+    "provider_id": "MHP-PR-017",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-11T14:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00134",
+    "provider_id": "MHP-PR-017",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-13T15:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00135",
+    "provider_id": "MHP-PR-017",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-15T16:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00136",
+    "provider_id": "MHP-PR-018",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-03T14:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00137",
+    "provider_id": "MHP-PR-018",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-03T15:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00138",
+    "provider_id": "MHP-PR-018",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-05T17:00",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00139",
+    "provider_id": "MHP-PR-018",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-08T07:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00140",
+    "provider_id": "MHP-PR-018",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-08T16:00",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00141",
+    "provider_id": "MHP-PR-018",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-14T08:00",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00142",
+    "provider_id": "MHP-PR-018",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-15T13:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00143",
+    "provider_id": "MHP-PR-018",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-15T14:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00144",
+    "provider_id": "MHP-PR-019",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-03T11:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00145",
+    "provider_id": "MHP-PR-019",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-05T16:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00146",
+    "provider_id": "MHP-PR-019",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-06T10:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00147",
+    "provider_id": "MHP-PR-019",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-10T15:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00148",
+    "provider_id": "MHP-PR-019",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-12T10:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00149",
+    "provider_id": "MHP-PR-019",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-13T11:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00150",
+    "provider_id": "MHP-PR-019",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-14T13:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00151",
+    "provider_id": "MHP-PR-019",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-14T16:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00152",
+    "provider_id": "MHP-PR-020",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-03T15:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00153",
+    "provider_id": "MHP-PR-020",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-05T09:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00154",
+    "provider_id": "MHP-PR-020",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-06T12:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00155",
+    "provider_id": "MHP-PR-020",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-11T12:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00156",
+    "provider_id": "MHP-PR-020",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-12T16:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00157",
+    "provider_id": "MHP-PR-020",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-13T11:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00158",
+    "provider_id": "MHP-PR-020",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-13T14:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00159",
+    "provider_id": "MHP-PR-020",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-15T14:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00160",
+    "provider_id": "MHP-PR-021",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-04T07:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00161",
+    "provider_id": "MHP-PR-021",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-06T16:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00162",
+    "provider_id": "MHP-PR-021",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-08T07:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00163",
+    "provider_id": "MHP-PR-021",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-10T15:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00164",
+    "provider_id": "MHP-PR-021",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-12T08:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00165",
+    "provider_id": "MHP-PR-021",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-12T10:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00166",
+    "provider_id": "MHP-PR-021",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-12T16:00",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00167",
+    "provider_id": "MHP-PR-021",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-14T15:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00168",
+    "provider_id": "MHP-PR-022",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-03T15:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00169",
+    "provider_id": "MHP-PR-022",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-03T18:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00170",
+    "provider_id": "MHP-PR-022",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-04T09:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00171",
+    "provider_id": "MHP-PR-022",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-04T17:00",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00172",
+    "provider_id": "MHP-PR-022",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-06T19:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00173",
+    "provider_id": "MHP-PR-022",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-07T18:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00174",
+    "provider_id": "MHP-PR-022",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-12T09:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00175",
+    "provider_id": "MHP-PR-022",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-12T13:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00176",
+    "provider_id": "MHP-PR-023",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-03T08:45",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00177",
+    "provider_id": "MHP-PR-023",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-03T13:15",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00178",
+    "provider_id": "MHP-PR-023",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-04T14:45",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00179",
+    "provider_id": "MHP-PR-023",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-04T15:30",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00180",
+    "provider_id": "MHP-PR-023",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-05T13:15",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00181",
+    "provider_id": "MHP-PR-023",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-06T11:00",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00182",
+    "provider_id": "MHP-PR-023",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-07T14:00",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00183",
+    "provider_id": "MHP-PR-023",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-13T14:00",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00184",
+    "provider_id": "MHP-PR-024",
+    "site_id": "MHP-SITE-05",
+    "specialty": "ENT",
+    "starts_at": "2026-08-03T10:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00185",
+    "provider_id": "MHP-PR-024",
+    "site_id": "MHP-SITE-05",
+    "specialty": "ENT",
+    "starts_at": "2026-08-05T17:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00186",
+    "provider_id": "MHP-PR-024",
+    "site_id": "MHP-SITE-05",
+    "specialty": "ENT",
+    "starts_at": "2026-08-08T10:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00187",
+    "provider_id": "MHP-PR-024",
+    "site_id": "MHP-SITE-05",
+    "specialty": "ENT",
+    "starts_at": "2026-08-08T10:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00188",
+    "provider_id": "MHP-PR-024",
+    "site_id": "MHP-SITE-05",
+    "specialty": "ENT",
+    "starts_at": "2026-08-10T09:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00189",
+    "provider_id": "MHP-PR-024",
+    "site_id": "MHP-SITE-05",
+    "specialty": "ENT",
+    "starts_at": "2026-08-13T11:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00190",
+    "provider_id": "MHP-PR-024",
+    "site_id": "MHP-SITE-05",
+    "specialty": "ENT",
+    "starts_at": "2026-08-14T14:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00191",
+    "provider_id": "MHP-PR-024",
+    "site_id": "MHP-SITE-05",
+    "specialty": "ENT",
+    "starts_at": "2026-08-14T17:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00192",
+    "provider_id": "MHP-PR-025",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-03T16:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00193",
+    "provider_id": "MHP-PR-025",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-04T17:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00194",
+    "provider_id": "MHP-PR-025",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-05T08:00",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00195",
+    "provider_id": "MHP-PR-025",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-08T17:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00196",
+    "provider_id": "MHP-PR-025",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-11T12:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00197",
+    "provider_id": "MHP-PR-025",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-12T08:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00198",
+    "provider_id": "MHP-PR-025",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-12T14:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00199",
+    "provider_id": "MHP-PR-025",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-14T12:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00200",
+    "provider_id": "MHP-PR-026",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-03T08:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00201",
+    "provider_id": "MHP-PR-026",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-03T13:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00202",
+    "provider_id": "MHP-PR-026",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-04T19:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00203",
+    "provider_id": "MHP-PR-026",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-06T17:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00204",
+    "provider_id": "MHP-PR-026",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-12T14:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00205",
+    "provider_id": "MHP-PR-026",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-12T16:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00206",
+    "provider_id": "MHP-PR-026",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-13T17:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00207",
+    "provider_id": "MHP-PR-026",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-14T13:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00208",
+    "provider_id": "MHP-PR-027",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-03T11:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00209",
+    "provider_id": "MHP-PR-027",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-04T11:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00210",
+    "provider_id": "MHP-PR-027",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-05T11:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00211",
+    "provider_id": "MHP-PR-027",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-10T09:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00212",
+    "provider_id": "MHP-PR-027",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-11T13:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00213",
+    "provider_id": "MHP-PR-027",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-12T12:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00214",
+    "provider_id": "MHP-PR-027",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-12T12:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00215",
+    "provider_id": "MHP-PR-027",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-13T16:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00216",
+    "provider_id": "MHP-PR-028",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-03T08:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00217",
+    "provider_id": "MHP-PR-028",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-03T13:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00218",
+    "provider_id": "MHP-PR-028",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-05T14:00",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00219",
+    "provider_id": "MHP-PR-028",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-08T11:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00220",
+    "provider_id": "MHP-PR-028",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-08T14:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00221",
+    "provider_id": "MHP-PR-028",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-11T15:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00222",
+    "provider_id": "MHP-PR-028",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-12T08:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00223",
+    "provider_id": "MHP-PR-028",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-15T10:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00224",
+    "provider_id": "MHP-PR-029",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-03T11:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00225",
+    "provider_id": "MHP-PR-029",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-03T12:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00226",
+    "provider_id": "MHP-PR-029",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-04T10:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00227",
+    "provider_id": "MHP-PR-029",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-06T09:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00228",
+    "provider_id": "MHP-PR-029",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-06T09:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00229",
+    "provider_id": "MHP-PR-029",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-06T10:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00230",
+    "provider_id": "MHP-PR-029",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-08T12:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00231",
+    "provider_id": "MHP-PR-029",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-13T14:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00232",
+    "provider_id": "MHP-PR-030",
+    "site_id": "MHP-SITE-09",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-04T13:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00233",
+    "provider_id": "MHP-PR-030",
+    "site_id": "MHP-SITE-09",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-04T15:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00234",
+    "provider_id": "MHP-PR-030",
+    "site_id": "MHP-SITE-09",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-06T16:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00235",
+    "provider_id": "MHP-PR-030",
+    "site_id": "MHP-SITE-09",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-07T17:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00236",
+    "provider_id": "MHP-PR-030",
+    "site_id": "MHP-SITE-09",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-10T15:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00237",
+    "provider_id": "MHP-PR-030",
+    "site_id": "MHP-SITE-09",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-13T08:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00238",
+    "provider_id": "MHP-PR-030",
+    "site_id": "MHP-SITE-09",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-13T13:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00239",
+    "provider_id": "MHP-PR-030",
+    "site_id": "MHP-SITE-09",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-14T18:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00240",
+    "provider_id": "MHP-PR-031",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-04T13:30",
+    "duration_minutes": 45,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00241",
+    "provider_id": "MHP-PR-031",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-05T12:45",
+    "duration_minutes": 45,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00242",
+    "provider_id": "MHP-PR-031",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-05T13:30",
+    "duration_minutes": 45,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00243",
+    "provider_id": "MHP-PR-031",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-05T15:00",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00244",
+    "provider_id": "MHP-PR-031",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-06T12:45",
+    "duration_minutes": 45,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00245",
+    "provider_id": "MHP-PR-031",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-07T10:30",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00246",
+    "provider_id": "MHP-PR-031",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-07T11:15",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00247",
+    "provider_id": "MHP-PR-031",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-15T08:15",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00248",
+    "provider_id": "MHP-PR-032",
+    "site_id": "MHP-SITE-11",
+    "specialty": "ENT",
+    "starts_at": "2026-08-07T12:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00249",
+    "provider_id": "MHP-PR-032",
+    "site_id": "MHP-SITE-11",
+    "specialty": "ENT",
+    "starts_at": "2026-08-08T08:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00250",
+    "provider_id": "MHP-PR-032",
+    "site_id": "MHP-SITE-11",
+    "specialty": "ENT",
+    "starts_at": "2026-08-11T08:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00251",
+    "provider_id": "MHP-PR-032",
+    "site_id": "MHP-SITE-11",
+    "specialty": "ENT",
+    "starts_at": "2026-08-11T08:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00252",
+    "provider_id": "MHP-PR-032",
+    "site_id": "MHP-SITE-11",
+    "specialty": "ENT",
+    "starts_at": "2026-08-13T08:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00253",
+    "provider_id": "MHP-PR-032",
+    "site_id": "MHP-SITE-11",
+    "specialty": "ENT",
+    "starts_at": "2026-08-13T16:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00254",
+    "provider_id": "MHP-PR-032",
+    "site_id": "MHP-SITE-11",
+    "specialty": "ENT",
+    "starts_at": "2026-08-14T13:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00255",
+    "provider_id": "MHP-PR-032",
+    "site_id": "MHP-SITE-11",
+    "specialty": "ENT",
+    "starts_at": "2026-08-14T16:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00256",
+    "provider_id": "MHP-PR-033",
+    "site_id": "MHP-SITE-01",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-03T17:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00257",
+    "provider_id": "MHP-PR-033",
+    "site_id": "MHP-SITE-01",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-07T11:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00258",
+    "provider_id": "MHP-PR-033",
+    "site_id": "MHP-SITE-01",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-08T14:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00259",
+    "provider_id": "MHP-PR-033",
+    "site_id": "MHP-SITE-01",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-10T12:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00260",
+    "provider_id": "MHP-PR-033",
+    "site_id": "MHP-SITE-01",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-10T14:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00261",
+    "provider_id": "MHP-PR-033",
+    "site_id": "MHP-SITE-01",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-13T15:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00262",
+    "provider_id": "MHP-PR-033",
+    "site_id": "MHP-SITE-01",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-13T16:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00263",
+    "provider_id": "MHP-PR-033",
+    "site_id": "MHP-SITE-01",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-14T10:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00264",
+    "provider_id": "MHP-PR-034",
+    "site_id": "MHP-SITE-12",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-05T10:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00265",
+    "provider_id": "MHP-PR-034",
+    "site_id": "MHP-SITE-12",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-05T11:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00266",
+    "provider_id": "MHP-PR-034",
+    "site_id": "MHP-SITE-12",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-08T13:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00267",
+    "provider_id": "MHP-PR-034",
+    "site_id": "MHP-SITE-12",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-08T17:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00268",
+    "provider_id": "MHP-PR-034",
+    "site_id": "MHP-SITE-12",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-12T10:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00269",
+    "provider_id": "MHP-PR-034",
+    "site_id": "MHP-SITE-12",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-13T12:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00270",
+    "provider_id": "MHP-PR-034",
+    "site_id": "MHP-SITE-12",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-14T16:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00271",
+    "provider_id": "MHP-PR-034",
+    "site_id": "MHP-SITE-12",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-14T17:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00272",
+    "provider_id": "MHP-PR-035",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-03T11:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00273",
+    "provider_id": "MHP-PR-035",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-04T14:20",
+    "duration_minutes": 20,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00274",
+    "provider_id": "MHP-PR-035",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-07T12:40",
+    "duration_minutes": 20,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00275",
+    "provider_id": "MHP-PR-035",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-07T15:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00276",
+    "provider_id": "MHP-PR-035",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-07T16:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00277",
+    "provider_id": "MHP-PR-035",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-11T12:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00278",
+    "provider_id": "MHP-PR-035",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-14T11:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00279",
+    "provider_id": "MHP-PR-035",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-14T12:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00280",
+    "provider_id": "MHP-PR-036",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-03T09:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00281",
+    "provider_id": "MHP-PR-036",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-03T13:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00282",
+    "provider_id": "MHP-PR-036",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-07T08:00",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00283",
+    "provider_id": "MHP-PR-036",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-07T13:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00284",
+    "provider_id": "MHP-PR-036",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-08T16:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00285",
+    "provider_id": "MHP-PR-036",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-12T08:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00286",
+    "provider_id": "MHP-PR-036",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-15T07:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00287",
+    "provider_id": "MHP-PR-036",
+    "site_id": "MHP-SITE-10",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-15T15:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00288",
+    "provider_id": "MHP-PR-037",
+    "site_id": "MHP-SITE-13",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-03T17:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00289",
+    "provider_id": "MHP-PR-037",
+    "site_id": "MHP-SITE-13",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-06T10:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00290",
+    "provider_id": "MHP-PR-037",
+    "site_id": "MHP-SITE-13",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-06T10:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00291",
+    "provider_id": "MHP-PR-037",
+    "site_id": "MHP-SITE-13",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-07T17:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00292",
+    "provider_id": "MHP-PR-037",
+    "site_id": "MHP-SITE-13",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-12T08:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00293",
+    "provider_id": "MHP-PR-037",
+    "site_id": "MHP-SITE-13",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-12T10:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00294",
+    "provider_id": "MHP-PR-037",
+    "site_id": "MHP-SITE-13",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-12T13:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00295",
+    "provider_id": "MHP-PR-037",
+    "site_id": "MHP-SITE-13",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-12T15:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00296",
+    "provider_id": "MHP-PR-038",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-03T13:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00297",
+    "provider_id": "MHP-PR-038",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-05T08:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00298",
+    "provider_id": "MHP-PR-038",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-08T10:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00299",
+    "provider_id": "MHP-PR-038",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-13T09:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00300",
+    "provider_id": "MHP-PR-038",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-13T10:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00301",
+    "provider_id": "MHP-PR-038",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-13T11:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00302",
+    "provider_id": "MHP-PR-038",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-14T12:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00303",
+    "provider_id": "MHP-PR-038",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-15T12:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00304",
+    "provider_id": "MHP-PR-039",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-03T14:00",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00305",
+    "provider_id": "MHP-PR-039",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-05T08:00",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00306",
+    "provider_id": "MHP-PR-039",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-05T17:45",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00307",
+    "provider_id": "MHP-PR-039",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-07T19:15",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00308",
+    "provider_id": "MHP-PR-039",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-08T13:15",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00309",
+    "provider_id": "MHP-PR-039",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-08T14:45",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00310",
+    "provider_id": "MHP-PR-039",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-12T13:15",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00311",
+    "provider_id": "MHP-PR-039",
+    "site_id": "MHP-SITE-03",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-15T15:30",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00312",
+    "provider_id": "MHP-PR-040",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-07T10:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00313",
+    "provider_id": "MHP-PR-040",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-07T16:20",
+    "duration_minutes": 20,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00314",
+    "provider_id": "MHP-PR-040",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-08T15:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00315",
+    "provider_id": "MHP-PR-040",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-10T11:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00316",
+    "provider_id": "MHP-PR-040",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-10T16:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00317",
+    "provider_id": "MHP-PR-040",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-11T09:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00318",
+    "provider_id": "MHP-PR-040",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-12T17:00",
+    "duration_minutes": 20,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00319",
+    "provider_id": "MHP-PR-040",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-15T09:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00320",
+    "provider_id": "MHP-PR-041",
+    "site_id": "MHP-SITE-13",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-04T08:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00321",
+    "provider_id": "MHP-PR-041",
+    "site_id": "MHP-SITE-13",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-04T12:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00322",
+    "provider_id": "MHP-PR-041",
+    "site_id": "MHP-SITE-13",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-04T13:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00323",
+    "provider_id": "MHP-PR-041",
+    "site_id": "MHP-SITE-13",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-07T11:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00324",
+    "provider_id": "MHP-PR-041",
+    "site_id": "MHP-SITE-13",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-07T12:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00325",
+    "provider_id": "MHP-PR-041",
+    "site_id": "MHP-SITE-13",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-10T14:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00326",
+    "provider_id": "MHP-PR-041",
+    "site_id": "MHP-SITE-13",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-11T12:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00327",
+    "provider_id": "MHP-PR-041",
+    "site_id": "MHP-SITE-13",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-14T16:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00328",
+    "provider_id": "MHP-PR-042",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-03T11:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00329",
+    "provider_id": "MHP-PR-042",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-03T12:00",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00330",
+    "provider_id": "MHP-PR-042",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-03T16:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00331",
+    "provider_id": "MHP-PR-042",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-04T07:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00332",
+    "provider_id": "MHP-PR-042",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-04T10:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00333",
+    "provider_id": "MHP-PR-042",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-13T08:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00334",
+    "provider_id": "MHP-PR-042",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-14T10:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00335",
+    "provider_id": "MHP-PR-042",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-14T14:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00336",
+    "provider_id": "MHP-PR-043",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-03T13:10",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00337",
+    "provider_id": "MHP-PR-043",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-03T16:50",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00338",
+    "provider_id": "MHP-PR-043",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-05T14:10",
+    "duration_minutes": 20,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00339",
+    "provider_id": "MHP-PR-043",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-07T11:10",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00340",
+    "provider_id": "MHP-PR-043",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-08T15:10",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00341",
+    "provider_id": "MHP-PR-043",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-13T13:50",
+    "duration_minutes": 20,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00342",
+    "provider_id": "MHP-PR-043",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-13T17:10",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00343",
+    "provider_id": "MHP-PR-043",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-14T15:10",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00344",
+    "provider_id": "MHP-PR-044",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-03T11:00",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00345",
+    "provider_id": "MHP-PR-044",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-04T16:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00346",
+    "provider_id": "MHP-PR-044",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-06T13:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00347",
+    "provider_id": "MHP-PR-044",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-07T10:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00348",
+    "provider_id": "MHP-PR-044",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-07T12:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00349",
+    "provider_id": "MHP-PR-044",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-10T09:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00350",
+    "provider_id": "MHP-PR-044",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-11T11:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00351",
+    "provider_id": "MHP-PR-044",
+    "site_id": "MHP-SITE-07",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-14T08:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00352",
+    "provider_id": "MHP-PR-045",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-03T14:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00353",
+    "provider_id": "MHP-PR-045",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-04T15:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00354",
+    "provider_id": "MHP-PR-045",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-07T13:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00355",
+    "provider_id": "MHP-PR-045",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-10T13:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00356",
+    "provider_id": "MHP-PR-045",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-11T09:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00357",
+    "provider_id": "MHP-PR-045",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-13T13:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00358",
+    "provider_id": "MHP-PR-045",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-13T16:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00359",
+    "provider_id": "MHP-PR-045",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-15T16:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00360",
+    "provider_id": "MHP-PR-046",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-03T11:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00361",
+    "provider_id": "MHP-PR-046",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-04T12:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00362",
+    "provider_id": "MHP-PR-046",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-08T12:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00363",
+    "provider_id": "MHP-PR-046",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-08T13:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00364",
+    "provider_id": "MHP-PR-046",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-12T14:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00365",
+    "provider_id": "MHP-PR-046",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-13T10:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00366",
+    "provider_id": "MHP-PR-046",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-13T10:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00367",
+    "provider_id": "MHP-PR-046",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-15T14:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00368",
+    "provider_id": "MHP-PR-047",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-03T11:45",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00369",
+    "provider_id": "MHP-PR-047",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-03T14:00",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00370",
+    "provider_id": "MHP-PR-047",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-04T15:30",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00371",
+    "provider_id": "MHP-PR-047",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-05T10:15",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00372",
+    "provider_id": "MHP-PR-047",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-12T09:30",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00373",
+    "provider_id": "MHP-PR-047",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-14T16:15",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00374",
+    "provider_id": "MHP-PR-047",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-15T13:15",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00375",
+    "provider_id": "MHP-PR-047",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-15T14:00",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00376",
+    "provider_id": "MHP-PR-048",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-05T14:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00377",
+    "provider_id": "MHP-PR-048",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-07T14:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00378",
+    "provider_id": "MHP-PR-048",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-07T16:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00379",
+    "provider_id": "MHP-PR-048",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-10T17:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00380",
+    "provider_id": "MHP-PR-048",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-11T08:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00381",
+    "provider_id": "MHP-PR-048",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-13T09:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00382",
+    "provider_id": "MHP-PR-048",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-13T09:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00383",
+    "provider_id": "MHP-PR-048",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-15T14:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00384",
+    "provider_id": "MHP-PR-049",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-03T13:00",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00385",
+    "provider_id": "MHP-PR-049",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-07T11:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00386",
+    "provider_id": "MHP-PR-049",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-08T13:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00387",
+    "provider_id": "MHP-PR-049",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-12T10:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00388",
+    "provider_id": "MHP-PR-049",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-14T14:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00389",
+    "provider_id": "MHP-PR-049",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-15T11:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00390",
+    "provider_id": "MHP-PR-049",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-15T12:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00391",
+    "provider_id": "MHP-PR-049",
+    "site_id": "MHP-SITE-06",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-15T13:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00392",
+    "provider_id": "MHP-PR-050",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-04T10:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00393",
+    "provider_id": "MHP-PR-050",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-08T11:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00394",
+    "provider_id": "MHP-PR-050",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-10T12:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00395",
+    "provider_id": "MHP-PR-050",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-10T14:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00396",
+    "provider_id": "MHP-PR-050",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-11T13:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00397",
+    "provider_id": "MHP-PR-050",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-12T11:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00398",
+    "provider_id": "MHP-PR-050",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-12T13:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00399",
+    "provider_id": "MHP-PR-050",
+    "site_id": "MHP-SITE-11",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-13T13:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00400",
+    "provider_id": "MHP-PR-051",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-06T08:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00401",
+    "provider_id": "MHP-PR-051",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-06T12:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00402",
+    "provider_id": "MHP-PR-051",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-07T13:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00403",
+    "provider_id": "MHP-PR-051",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-08T08:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00404",
+    "provider_id": "MHP-PR-051",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-08T09:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00405",
+    "provider_id": "MHP-PR-051",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-11T08:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00406",
+    "provider_id": "MHP-PR-051",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-11T10:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00407",
+    "provider_id": "MHP-PR-051",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-11T16:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00408",
+    "provider_id": "MHP-PR-052",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-03T14:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00409",
+    "provider_id": "MHP-PR-052",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-04T16:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00410",
+    "provider_id": "MHP-PR-052",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-05T13:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00411",
+    "provider_id": "MHP-PR-052",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-06T12:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00412",
+    "provider_id": "MHP-PR-052",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-07T11:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00413",
+    "provider_id": "MHP-PR-052",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-08T14:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00414",
+    "provider_id": "MHP-PR-052",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-11T12:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00415",
+    "provider_id": "MHP-PR-052",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-12T10:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00416",
+    "provider_id": "MHP-PR-053",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-04T10:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00417",
+    "provider_id": "MHP-PR-053",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-04T10:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00418",
+    "provider_id": "MHP-PR-053",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-06T13:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00419",
+    "provider_id": "MHP-PR-053",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-11T10:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00420",
+    "provider_id": "MHP-PR-053",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-11T12:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00421",
+    "provider_id": "MHP-PR-053",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-11T15:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00422",
+    "provider_id": "MHP-PR-053",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-13T12:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00423",
+    "provider_id": "MHP-PR-053",
+    "site_id": "MHP-SITE-04",
+    "specialty": "Gastroenterology",
+    "starts_at": "2026-08-14T11:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00424",
+    "provider_id": "MHP-PR-054",
+    "site_id": "MHP-SITE-12",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-06T09:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00425",
+    "provider_id": "MHP-PR-054",
+    "site_id": "MHP-SITE-12",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-06T09:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00426",
+    "provider_id": "MHP-PR-054",
+    "site_id": "MHP-SITE-12",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-07T09:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00427",
+    "provider_id": "MHP-PR-054",
+    "site_id": "MHP-SITE-12",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-08T14:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00428",
+    "provider_id": "MHP-PR-054",
+    "site_id": "MHP-SITE-12",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-10T10:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00429",
+    "provider_id": "MHP-PR-054",
+    "site_id": "MHP-SITE-12",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-13T10:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00430",
+    "provider_id": "MHP-PR-054",
+    "site_id": "MHP-SITE-12",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-13T14:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00431",
+    "provider_id": "MHP-PR-054",
+    "site_id": "MHP-SITE-12",
+    "specialty": "Pulmonology",
+    "starts_at": "2026-08-15T15:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00432",
+    "provider_id": "MHP-PR-055",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-03T14:00",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00433",
+    "provider_id": "MHP-PR-055",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-03T15:30",
+    "duration_minutes": 45,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00434",
+    "provider_id": "MHP-PR-055",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-04T08:00",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00435",
+    "provider_id": "MHP-PR-055",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-04T11:00",
+    "duration_minutes": 45,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00436",
+    "provider_id": "MHP-PR-055",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-04T13:15",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00437",
+    "provider_id": "MHP-PR-055",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-05T11:00",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00438",
+    "provider_id": "MHP-PR-055",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-07T09:30",
+    "duration_minutes": 45,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00439",
+    "provider_id": "MHP-PR-055",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Neurology",
+    "starts_at": "2026-08-12T16:15",
+    "duration_minutes": 45,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00440",
+    "provider_id": "MHP-PR-056",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-03T08:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00441",
+    "provider_id": "MHP-PR-056",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-03T16:20",
+    "duration_minutes": 20,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00442",
+    "provider_id": "MHP-PR-056",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-05T17:00",
+    "duration_minutes": 20,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00443",
+    "provider_id": "MHP-PR-056",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-06T10:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00444",
+    "provider_id": "MHP-PR-056",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-11T12:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00445",
+    "provider_id": "MHP-PR-056",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-12T16:00",
+    "duration_minutes": 20,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00446",
+    "provider_id": "MHP-PR-056",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-12T17:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00447",
+    "provider_id": "MHP-PR-056",
+    "site_id": "MHP-SITE-13",
+    "specialty": "ENT",
+    "starts_at": "2026-08-13T12:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00448",
+    "provider_id": "MHP-PR-057",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-04T12:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00449",
+    "provider_id": "MHP-PR-057",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-07T14:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00450",
+    "provider_id": "MHP-PR-057",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-08T07:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00451",
+    "provider_id": "MHP-PR-057",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-10T09:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00452",
+    "provider_id": "MHP-PR-057",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-10T14:00",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00453",
+    "provider_id": "MHP-PR-057",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-11T17:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00454",
+    "provider_id": "MHP-PR-057",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-12T17:30",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00455",
+    "provider_id": "MHP-PR-057",
+    "site_id": "MHP-SITE-08",
+    "specialty": "Cardiology",
+    "starts_at": "2026-08-13T08:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00456",
+    "provider_id": "MHP-PR-058",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-05T08:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00457",
+    "provider_id": "MHP-PR-058",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-06T15:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00458",
+    "provider_id": "MHP-PR-058",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-07T13:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00459",
+    "provider_id": "MHP-PR-058",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-11T11:00",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00460",
+    "provider_id": "MHP-PR-058",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-13T16:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00461",
+    "provider_id": "MHP-PR-058",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-14T13:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00462",
+    "provider_id": "MHP-PR-058",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-14T14:00",
+    "duration_minutes": 30,
+    "mode": "telehealth",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00463",
+    "provider_id": "MHP-PR-058",
+    "site_id": "MHP-SITE-14",
+    "specialty": "Orthopaedics",
+    "starts_at": "2026-08-15T13:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00464",
+    "provider_id": "MHP-PR-059",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-03T10:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00465",
+    "provider_id": "MHP-PR-059",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-03T11:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00466",
+    "provider_id": "MHP-PR-059",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-05T14:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00467",
+    "provider_id": "MHP-PR-059",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-12T14:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00468",
+    "provider_id": "MHP-PR-059",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-13T11:20",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00469",
+    "provider_id": "MHP-PR-059",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-13T13:40",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00470",
+    "provider_id": "MHP-PR-059",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-15T15:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00471",
+    "provider_id": "MHP-PR-059",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Dermatology",
+    "starts_at": "2026-08-15T16:00",
+    "duration_minutes": 20,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00472",
+    "provider_id": "MHP-PR-060",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-04T16:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00473",
+    "provider_id": "MHP-PR-060",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-05T11:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00474",
+    "provider_id": "MHP-PR-060",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-06T16:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00475",
+    "provider_id": "MHP-PR-060",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-07T16:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00476",
+    "provider_id": "MHP-PR-060",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-08T15:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00477",
+    "provider_id": "MHP-PR-060",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-12T11:00",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00478",
+    "provider_id": "MHP-PR-060",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-13T13:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  },
+  {
+    "slot_id": "MHP-SL-00479",
+    "provider_id": "MHP-PR-060",
+    "site_id": "MHP-SITE-02",
+    "specialty": "Endocrinology",
+    "starts_at": "2026-08-14T16:30",
+    "duration_minutes": 30,
+    "mode": "in_person",
+    "status": "open"
+  }
+]

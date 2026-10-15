@@ -199,7 +199,7 @@ cython_debug/
 #   that can be found at https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
 #   and can be added to the global gitignore or merged into this file. However, if you prefer, 
 #   you could uncomment the following to ignore the entire vscode folder
-# .vscode/
+.vscode/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
@@ -228,4 +228,12 @@ __marimo__/
 !/runtime/**/README.md
 /evaluation/reports/*
 !/evaluation/reports/.gitkeep
+# CareFlow submission: include the synthetic, de-identified course dataset that the code needs.
+# Still excluded: generated state (data/careflow/state), study notes (data/careflow/insights),
+# runtime/ and evaluation reports.
+!/data/careflow/manifest.json
+!/data/careflow/corpus/**
+!/data/careflow/intake/**
+!/data/careflow/eval/**
+!/data/careflow/mock_api/**
 .DS_Store

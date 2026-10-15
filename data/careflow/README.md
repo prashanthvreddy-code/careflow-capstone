@@ -1,17 +1,14 @@
-# CareFlow data placeholder
+# CareFlow data
 
-Generate or copy the toolkit output into this directory. No generated data is included.
+The synthetic, de-identified dataset from the course data toolkit. It is all invented: no real
+patients. The code reads it from here (paths relative to the project root, see
+`src/capstone/settings.py`).
 
-Expected files after generation:
+- `manifest.json`: what the toolkit generated
+- `corpus/markdown/*.md`, `corpus/pdf/*.pdf`, `corpus/index.json`: the 14 clinic policy documents
+- `intake/records.jsonl`: 200 patient intake messages with answer-key labels
+- `eval/golden_set.json`: the 20-question golden evaluation set
+- `mock_api/*.csv|json`: mock EHR, scheduling and insurance tables (patients, plans, co-pays,
+  procedures, appointments, slots, referrals, providers, sites)
 
-- `manifest.json`
-- `corpus/index.json`
-- `corpus/markdown/*.md` and `corpus/pdf/*.pdf`
-- `intake/records.jsonl`
-- `eval/golden_set.json`
-- `mock_api/plans.csv` and `mock_api/plans.json`
-- `mock_api/patients.csv` and `mock_api/patients.json`
-- `mock_api/appointments.csv` and `mock_api/appointments.json`
-- `mock_api/referrals.csv` and `mock_api/referrals.json`
-
-Preserve originals. Use `runtime/mock_api/` for mutable application state.
+Read-only: the application writes its state under `runtime/`, never here.

@@ -1,0 +1,114 @@
+[
+  {
+    "slug": "referral-policy",
+    "title": "Referral Management Policy",
+    "section": "operations",
+    "markdown": "corpus/markdown/referral-policy.md",
+    "pdf": "corpus/pdf/referral-policy.pdf",
+    "chars": 7033
+  },
+  {
+    "slug": "preauth-matrix",
+    "title": "Pre-Authorisation Requirement Matrix",
+    "section": "insurance",
+    "markdown": "corpus/markdown/preauth-matrix.md",
+    "pdf": "corpus/pdf/preauth-matrix.pdf",
+    "chars": 11528
+  },
+  {
+    "slug": "copay-schedule",
+    "title": "Co-payment and Cost-Share Schedule",
+    "section": "insurance",
+    "markdown": "corpus/markdown/copay-schedule.md",
+    "pdf": "corpus/pdf/copay-schedule.pdf",
+    "chars": 4802
+  },
+  {
+    "slug": "clinical-escalation",
+    "title": "Clinical Escalation and Scope-of-Practice Standard",
+    "section": "safety",
+    "markdown": "corpus/markdown/clinical-escalation.md",
+    "pdf": "corpus/pdf/clinical-escalation.pdf",
+    "chars": 7892
+  },
+  {
+    "slug": "intake-triage-sop",
+    "title": "Patient Intake and Triage Standard Operating Procedure",
+    "section": "operations",
+    "markdown": "corpus/markdown/intake-triage-sop.md",
+    "pdf": "corpus/pdf/intake-triage-sop.pdf",
+    "chars": 8253
+  },
+  {
+    "slug": "data-handling",
+    "title": "Patient Data Handling and Consent Standard",
+    "section": "compliance",
+    "markdown": "corpus/markdown/data-handling.md",
+    "pdf": "corpus/pdf/data-handling.pdf",
+    "chars": 7171
+  },
+  {
+    "slug": "specialty-cardiology",
+    "title": "Cardiology Service Line Handbook",
+    "section": "clinical_ops",
+    "markdown": "corpus/markdown/specialty-cardiology.md",
+    "pdf": "corpus/pdf/specialty-cardiology.pdf",
+    "chars": 4480
+  },
+  {
+    "slug": "specialty-orthopaedics",
+    "title": "Orthopaedics Service Line Handbook",
+    "section": "clinical_ops",
+    "markdown": "corpus/markdown/specialty-orthopaedics.md",
+    "pdf": "corpus/pdf/specialty-orthopaedics.pdf",
+    "chars": 4028
+  },
+  {
+    "slug": "specialty-dermatology",
+    "title": "Dermatology Service Line Handbook",
+    "section": "clinical_ops",
+    "markdown": "corpus/markdown/specialty-dermatology.md",
+    "pdf": "corpus/pdf/specialty-dermatology.pdf",
+    "chars": 4424
+  },
+  {
+    "slug": "specialty-endocrinology",
+    "title": "Endocrinology Service Line Handbook",
+    "section": "clinical_ops",
+    "markdown": "corpus/markdown/specialty-endocrinology.md",
+    "pdf": "corpus/pdf/specialty-endocrinology.pdf",
+    "chars": 4930
+  },
+  {
+    "slug": "specialty-gastroenterology",
+    "title": "Gastroenterology Service Line Handbook",
+    "section": "clinical_ops",
+    "markdown": "corpus/markdown/specialty-gastroenterology.md",
+    "pdf": "corpus/pdf/specialty-gastroenterology.pdf",
+    "chars": 4919
+  },
+  {
+    "slug": "specialty-pulmonology",
+    "title": "Pulmonology Service Line Handbook",
+    "section": "clinical_ops",
+    "markdown": "corpus/markdown/specialty-pulmonology.md",
+    "pdf": "corpus/pdf/specialty-pulmonology.pdf",
+    "chars": 4304
+  },
+  {
+    "slug": "specialty-neurology",
+    "title": "Neurology Service Line Handbook",
+    "section": "clinical_ops",
+    "markdown": "corpus/markdown/specialty-neurology.md",
+    "pdf": "corpus/pdf/specialty-neurology.pdf",
+    "chars": 4425
+  },
+  {
+    "slug": "specialty-ent",
+    "title": "ENT Service Line Handbook",
+    "section": "clinical_ops",
+    "markdown": "corpus/markdown/specialty-ent.md",
+    "pdf": "corpus/pdf/specialty-ent.pdf",
+    "chars": 4463
+  }
+]

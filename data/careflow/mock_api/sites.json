@@ -1,0 +1,114 @@
+[
+  {
+    "site_id": "MHP-SITE-01",
+    "site_name": "Meridian North Judithbury Clinic",
+    "city": "North Judithbury",
+    "opens_at": "09:00",
+    "closes_at": "18:00",
+    "telehealth_enabled": true
+  },
+  {
+    "site_id": "MHP-SITE-02",
+    "site_name": "Meridian East Jill Clinic",
+    "city": "East Jill",
+    "opens_at": "09:00",
+    "closes_at": "17:00",
+    "telehealth_enabled": false
+  },
+  {
+    "site_id": "MHP-SITE-03",
+    "site_name": "Meridian New Roberttown Clinic",
+    "city": "New Roberttown",
+    "opens_at": "08:00",
+    "closes_at": "20:00",
+    "telehealth_enabled": false
+  },
+  {
+    "site_id": "MHP-SITE-04",
+    "site_name": "Meridian East Jessetown Clinic",
+    "city": "East Jessetown",
+    "opens_at": "08:00",
+    "closes_at": "17:00",
+    "telehealth_enabled": false
+  },
+  {
+    "site_id": "MHP-SITE-05",
+    "site_name": "Meridian Lake Debra Clinic",
+    "city": "Lake Debra",
+    "opens_at": "08:00",
+    "closes_at": "18:00",
+    "telehealth_enabled": false
+  },
+  {
+    "site_id": "MHP-SITE-06",
+    "site_name": "Meridian Robinsonshire Clinic",
+    "city": "Robinsonshire",
+    "opens_at": "09:00",
+    "closes_at": "17:00",
+    "telehealth_enabled": true
+  },
+  {
+    "site_id": "MHP-SITE-07",
+    "site_name": "Meridian Lisatown Clinic",
+    "city": "Lisatown",
+    "opens_at": "07:30",
+    "closes_at": "20:00",
+    "telehealth_enabled": true
+  },
+  {
+    "site_id": "MHP-SITE-08",
+    "site_name": "Meridian Lake Roberto Clinic",
+    "city": "Lake Roberto",
+    "opens_at": "07:30",
+    "closes_at": "18:00",
+    "telehealth_enabled": true
+  },
+  {
+    "site_id": "MHP-SITE-09",
+    "site_name": "Meridian Ericmouth Clinic",
+    "city": "Ericmouth",
+    "opens_at": "08:00",
+    "closes_at": "20:00",
+    "telehealth_enabled": false
+  },
+  {
+    "site_id": "MHP-SITE-10",
+    "site_name": "Meridian North Noahstad Clinic",
+    "city": "North Noahstad",
+    "opens_at": "07:30",
+    "closes_at": "17:00",
+    "telehealth_enabled": true
+  },
+  {
+    "site_id": "MHP-SITE-11",
+    "site_name": "Meridian Cassandraton Clinic",
+    "city": "Cassandraton",
+    "opens_at": "08:00",
+    "closes_at": "17:00",
+    "telehealth_enabled": false
+  },
+  {
+    "site_id": "MHP-SITE-12",
+    "site_name": "Meridian Herrerafurt Clinic",
+    "city": "Herrerafurt",
+    "opens_at": "09:00",
+    "closes_at": "18:00",
+    "telehealth_enabled": false
+  },
+  {
+    "site_id": "MHP-SITE-13",
+    "site_name": "Meridian New Kellystad Clinic",
+    "city": "New Kellystad",
+    "opens_at": "08:00",
+    "closes_at": "18:00",
+    "telehealth_enabled": true
+  },
+  {
+    "site_id": "MHP-SITE-14",
+    "site_name": "Meridian Lake Chad Clinic",
+    "city": "Lake Chad",
+    "opens_at": "08:00",
+    "closes_at": "18:00",
+    "telehealth_enabled": true
+  }
+]

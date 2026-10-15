@@ -1,0 +1,72 @@
+[
+ {
+  "id": "NC-01",
+  "category": "factual",
+  "question": "What is the coinsurance rate on CIVIC-BASE?",
+  "expected": "35%.",
+  "answer_contains": [
+   "35"
+  ],
+  "must_cite": [
+   "Co-payment and Cost-Share Schedule"
+  ],
+  "must_not_contain": [],
+  "expected_route": "auto"
+ },
+ {
+  "id": "NC-02",
+  "category": "factual",
+  "question": "What does a MERIDIAN-SILVER patient pay for lab work?",
+  "expected": "The flat lab work co-pay of $25 (deductible and coinsurance do not apply to standalone lab services).",
+  "answer_contains": [
+   "25"
+  ],
+  "must_cite": [
+   "Co-payment and Cost-Share Schedule"
+  ],
+  "must_not_contain": [],
+  "expected_route": "auto"
+ },
+ {
+  "id": "NC-03",
+  "category": "factual",
+  "question": "Does a MERIDIAN-GOLD patient pay a deductible for a standard ENT consultation?",
+  "expected": "No: a standard consultation costs only the flat specialist co-pay ($25 for MERIDIAN-GOLD); deductible and coinsurance do not apply.",
+  "answer_contains": [
+   "25"
+  ],
+  "must_cite": [
+   "Co-payment and Cost-Share Schedule"
+  ],
+  "must_not_contain": [],
+  "expected_route": "auto"
+ },
+ {
+  "id": "NC-04",
+  "category": "factual",
+  "question": "How much does a MERIDIAN-GOLD patient pay for a specialist visit?",
+  "expected": "The flat specialist co-pay of $25.",
+  "answer_contains": [
+   "25"
+  ],
+  "must_cite": [
+   "Co-payment and Cost-Share Schedule"
+  ],
+  "must_not_contain": [],
+  "expected_route": "auto"
+ },
+ {
+  "id": "NC-05",
+  "category": "factual",
+  "question": "What would a CIVIC-BASE patient be charged for imaging?",
+  "expected": "The flat imaging co-pay of $130.",
+  "answer_contains": [
+   "130"
+  ],
+  "must_cite": [
+   "Co-payment and Cost-Share Schedule"
+  ],
+  "must_not_contain": [],
+  "expected_route": "auto"
+ }
+]
